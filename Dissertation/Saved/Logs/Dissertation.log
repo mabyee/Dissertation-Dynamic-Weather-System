@@ -15757,3 +15757,1970 @@ Are you sure?
 [2022.04.03-12.23.37:471][568]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.04.03-12.23.37:476][568]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
 [2022.04.03-12.23.37:502][569]LogPlayLevel: Display: Destroying online subsystem :Context_130
+[2022.04.03-12.33.47:563][800]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Henri\Downloads\lightning.wav)
+[2022.04.03-12.34.07:166][550]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Weather_Blueprints/BP_Weather.BP_Weather
+[2022.04.03-12.34.15:698][226]LogSlate: Window 'BP_Weather' being destroyed
+[2022.04.03-12.34.15:707][226]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2022.04.03-12.34.15:707][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.03-12.34.17:783][423]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MainMap.MainMap:PersistentLevel.MainMap
+[2022.04.03-12.34.35:410][846]BlueprintLog: New page: Compile MainMap
+[2022.04.03-12.34.35:457][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.04.03-12.35.01:056][173]BlueprintLog: New page: Compile MainMap
+[2022.04.03-12.35.01:096][173]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.04.03-12.35.02:771][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.03-12.35.02:788][297]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.04.03-12.35.03:190][297]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/MainMap429B20FF4F54DEB172D1F3A934764E5B.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/MainMap.umap'
+[2022.04.03-12.35.03:197][297]LogFileHelpers: Saving map 'MainMap' took 0.426
+[2022.04.03-12.35.03:232][297]AssetCheck: New page: Asset Save: MainMap
+[2022.04.03-12.35.03:233][297]LogContentValidation: Display: Validating World /Game/MainMap.MainMap
+[2022.04.03-12.35.08:776][826]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.03-12.35.08:780][826]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.03-12.35.08:780][826]PIE: New page: PIE session: MainMap (3 Apr 2022, 14:35:08)
+[2022.04.03-12.35.08:780][826]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.04.03-12.35.08:896][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.115470s)
+[2022.04.03-12.35.08:897][826]LogAIModule: Creating AISystem for world MainMap
+[2022.04.03-12.35.08:897][826]LogPlayLevel: PIE: World Init took: (0.000907s)
+[2022.04.03-12.35.08:897][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.116489s)
+[2022.04.03-12.35.08:913][826]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.04.03-12.35.08:914][826]LogAudio: Display: Creating Audio Device:                 Id: 76, Scope: Unique, Realtime: True
+[2022.04.03-12.35.08:914][826]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.03-12.35.08:914][826]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.03-12.35.08:914][826]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.03-12.35.08:914][826]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.03-12.35.08:914][826]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.03-12.35.08:914][826]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.03-12.35.08:914][826]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.03-12.35.08:914][826]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.03-12.35.08:915][826]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.03-12.35.08:915][826]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.03-12.35.08:915][826]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.03-12.35.08:915][826]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.03-12.35.08:918][826]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.03-12.35.08:918][826]LogAudioMixer: Display: 1: FrontRight
+[2022.04.03-12.35.08:929][826]LogAudioMixer: Display: Using Audio Device Headphones (Commuter)
+[2022.04.03-12.35.08:930][826]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.03-12.35.08:930][826]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.03-12.35.08:930][826]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.03-12.35.08:930][826]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.03-12.35.08:930][826]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.03-12.35.08:930][826]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.03-12.35.08:930][826]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.03-12.35.08:930][826]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.03-12.35.08:930][826]LogInit: FAudioDevice initialized.
+[2022.04.03-12.35.08:931][826]LogAudio: Display: Audio Device (ID: 76) registered with world 'MainMap'.
+[2022.04.03-12.35.08:939][826]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.03-12.35.08:940][826]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.04.03-13.35.08
+[2022.04.03-12.35.08:941][826]LogWorld: Bringing up level for play took: 0.001965
+[2022.04.03-12.35.08:941][826]LogOnline: OSS: Creating online subsystem instance for: :Context_133
+[2022.04.03-12.35.08:944][826]PIE: Server logged in
+[2022.04.03-12.35.08:945][826]PIE: Play in editor total start time 0.165 seconds.
+[2022.04.03-12.35.08:991][827]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.35.09:200][851]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.35.09:400][875]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.35.09:600][899]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.35.09:800][923]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.35.09:999][947]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.35.10:200][971]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.35.10:399][995]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.35.10:600][ 19]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.35.10:800][ 43]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.35.11:000][ 67]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.35.11:143][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.03-12.35.11:143][ 79]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2022.04.03-12.35.11:143][ 79]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.03-12.35.11:144][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.03-12.35.11:149][ 79]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.03-12.35.11:157][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.03-12.35.11:172][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.03-12.35.11:172][ 79]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.03-12.35.11:173][ 79]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.03-12.35.11:178][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.04.03-12.35.11:215][ 80]LogPlayLevel: Display: Destroying online subsystem :Context_133
+[2022.04.03-12.35.11:808][137]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.03-12.35.11:812][137]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.03-12.35.11:812][137]PIE: New page: PIE session: MainMap (3 Apr 2022, 14:35:11)
+[2022.04.03-12.35.11:813][137]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.04.03-12.35.11:928][137]LogPlayLevel: PIE: StaticDuplicateObject took: (0.115515s)
+[2022.04.03-12.35.11:929][137]LogAIModule: Creating AISystem for world MainMap
+[2022.04.03-12.35.11:929][137]LogPlayLevel: PIE: World Init took: (0.000879s)
+[2022.04.03-12.35.11:929][137]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.116501s)
+[2022.04.03-12.35.11:945][137]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.04.03-12.35.11:946][137]LogAudio: Display: Creating Audio Device:                 Id: 77, Scope: Unique, Realtime: True
+[2022.04.03-12.35.11:946][137]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.03-12.35.11:946][137]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.03-12.35.11:946][137]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.03-12.35.11:946][137]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.03-12.35.11:946][137]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.03-12.35.11:946][137]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.03-12.35.11:946][137]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.03-12.35.11:946][137]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.03-12.35.11:947][137]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.03-12.35.11:947][137]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.03-12.35.11:947][137]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.03-12.35.11:947][137]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.03-12.35.11:950][137]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.03-12.35.11:950][137]LogAudioMixer: Display: 1: FrontRight
+[2022.04.03-12.35.11:959][137]LogAudioMixer: Display: Using Audio Device Headphones (Commuter)
+[2022.04.03-12.35.11:960][137]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.03-12.35.11:960][137]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.03-12.35.11:960][137]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.03-12.35.11:960][137]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.03-12.35.11:960][137]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.03-12.35.11:960][137]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.03-12.35.11:961][137]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.03-12.35.11:961][137]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.03-12.35.11:961][137]LogInit: FAudioDevice initialized.
+[2022.04.03-12.35.11:961][137]LogAudio: Display: Audio Device (ID: 77) registered with world 'MainMap'.
+[2022.04.03-12.35.11:970][137]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.03-12.35.11:972][137]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.04.03-13.35.11
+[2022.04.03-12.35.11:972][137]LogWorld: Bringing up level for play took: 0.001948
+[2022.04.03-12.35.11:972][137]LogOnline: OSS: Creating online subsystem instance for: :Context_134
+[2022.04.03-12.35.11:975][137]PIE: Server logged in
+[2022.04.03-12.35.11:976][137]PIE: Play in editor total start time 0.164 seconds.
+[2022.04.03-12.35.12:021][138]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.35.12:221][162]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.35.12:422][186]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.35.12:621][210]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.35.12:821][234]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.35.12:893][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.03-12.35.12:893][238]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2022.04.03-12.35.12:894][238]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.03-12.35.12:894][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.03-12.35.12:899][238]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.03-12.35.12:907][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.03-12.35.12:921][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.03-12.35.12:922][238]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.03-12.35.12:923][238]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.03-12.35.12:928][238]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.04.03-12.35.12:963][239]LogPlayLevel: Display: Destroying online subsystem :Context_134
+[2022.04.03-12.35.13:473][291]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.03-12.35.13:477][291]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.03-12.35.13:477][291]PIE: New page: PIE session: MainMap (3 Apr 2022, 14:35:13)
+[2022.04.03-12.35.13:478][291]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.04.03-12.35.13:592][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.114344s)
+[2022.04.03-12.35.13:593][291]LogAIModule: Creating AISystem for world MainMap
+[2022.04.03-12.35.13:593][291]LogPlayLevel: PIE: World Init took: (0.000886s)
+[2022.04.03-12.35.13:593][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.115342s)
+[2022.04.03-12.35.13:609][291]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.04.03-12.35.13:609][291]LogAudio: Display: Creating Audio Device:                 Id: 78, Scope: Unique, Realtime: True
+[2022.04.03-12.35.13:609][291]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.03-12.35.13:609][291]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.03-12.35.13:609][291]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.03-12.35.13:609][291]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.03-12.35.13:610][291]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.03-12.35.13:610][291]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.03-12.35.13:610][291]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.03-12.35.13:610][291]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.03-12.35.13:610][291]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.03-12.35.13:610][291]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.03-12.35.13:610][291]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.03-12.35.13:610][291]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.03-12.35.13:613][291]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.03-12.35.13:613][291]LogAudioMixer: Display: 1: FrontRight
+[2022.04.03-12.35.13:623][291]LogAudioMixer: Display: Using Audio Device Headphones (Commuter)
+[2022.04.03-12.35.13:623][291]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.03-12.35.13:623][291]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.03-12.35.13:623][291]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.03-12.35.13:623][291]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.03-12.35.13:623][291]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.03-12.35.13:623][291]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.03-12.35.13:625][291]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.03-12.35.13:625][291]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.03-12.35.13:625][291]LogInit: FAudioDevice initialized.
+[2022.04.03-12.35.13:625][291]LogAudio: Display: Audio Device (ID: 78) registered with world 'MainMap'.
+[2022.04.03-12.35.13:630][291]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.03-12.35.13:633][291]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.04.03-13.35.13
+[2022.04.03-12.35.13:633][291]LogWorld: Bringing up level for play took: 0.001957
+[2022.04.03-12.35.13:633][291]LogOnline: OSS: Creating online subsystem instance for: :Context_135
+[2022.04.03-12.35.13:636][291]PIE: Server logged in
+[2022.04.03-12.35.13:637][291]PIE: Play in editor total start time 0.16 seconds.
+[2022.04.03-12.35.13:681][292]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.03-12.35.13:881][315]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.03-12.35.14:081][339]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.03-12.35.14:313][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.03-12.35.14:313][361]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2022.04.03-12.35.14:313][361]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.03-12.35.14:314][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.03-12.35.14:321][361]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.03-12.35.14:330][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.03-12.35.14:344][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.03-12.35.14:345][361]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.03-12.35.14:346][361]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.03-12.35.14:351][361]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.04.03-12.35.14:376][362]LogPlayLevel: Display: Destroying online subsystem :Context_135
+[2022.04.03-12.35.14:669][394]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.03-12.35.14:674][394]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.03-12.35.14:674][394]PIE: New page: PIE session: MainMap (3 Apr 2022, 14:35:14)
+[2022.04.03-12.35.14:674][394]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.04.03-12.35.14:790][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.116179s)
+[2022.04.03-12.35.14:791][394]LogAIModule: Creating AISystem for world MainMap
+[2022.04.03-12.35.14:791][394]LogPlayLevel: PIE: World Init took: (0.000924s)
+[2022.04.03-12.35.14:791][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.117209s)
+[2022.04.03-12.35.14:807][394]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.04.03-12.35.14:808][394]LogAudio: Display: Creating Audio Device:                 Id: 79, Scope: Unique, Realtime: True
+[2022.04.03-12.35.14:808][394]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.03-12.35.14:808][394]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.03-12.35.14:808][394]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.03-12.35.14:808][394]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.03-12.35.14:808][394]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.03-12.35.14:808][394]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.03-12.35.14:808][394]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.03-12.35.14:808][394]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.03-12.35.14:808][394]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.03-12.35.14:808][394]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.03-12.35.14:808][394]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.03-12.35.14:808][394]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.03-12.35.14:811][394]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.03-12.35.14:811][394]LogAudioMixer: Display: 1: FrontRight
+[2022.04.03-12.35.14:817][394]LogAudioMixer: Display: Using Audio Device Headphones (Commuter)
+[2022.04.03-12.35.14:818][394]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.03-12.35.14:818][394]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.03-12.35.14:818][394]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.03-12.35.14:818][394]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.03-12.35.14:818][394]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.03-12.35.14:818][394]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.03-12.35.14:819][394]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.03-12.35.14:819][394]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.03-12.35.14:819][394]LogInit: FAudioDevice initialized.
+[2022.04.03-12.35.14:819][394]LogAudio: Display: Audio Device (ID: 79) registered with world 'MainMap'.
+[2022.04.03-12.35.14:826][394]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.03-12.35.14:828][394]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.04.03-13.35.14
+[2022.04.03-12.35.14:828][394]LogWorld: Bringing up level for play took: 0.001952
+[2022.04.03-12.35.14:828][394]LogOnline: OSS: Creating online subsystem instance for: :Context_136
+[2022.04.03-12.35.14:831][394]PIE: Server logged in
+[2022.04.03-12.35.14:831][394]PIE: Play in editor total start time 0.159 seconds.
+[2022.04.03-12.35.14:874][395]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.15:074][419]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.15:274][443]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.15:475][467]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.15:674][491]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.15:874][515]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.16:074][539]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.16:274][563]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.16:474][587]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.16:674][611]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.16:874][635]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.17:074][659]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.17:274][683]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.17:474][707]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.17:674][731]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.17:874][755]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.18:074][779]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.18:274][803]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.18:474][827]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.18:674][851]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.18:874][875]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.19:074][899]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.19:274][923]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.19:474][947]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.19:674][971]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.19:874][995]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.20:074][ 19]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.20:274][ 43]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.20:474][ 67]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.20:674][ 91]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.20:874][115]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.21:074][139]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.21:274][163]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.21:474][187]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.21:674][211]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.21:874][235]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.22:074][259]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.22:274][283]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.22:474][307]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.22:674][331]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.22:874][355]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.23:074][379]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.23:274][403]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.23:474][427]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.23:674][451]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.23:874][475]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.24:074][499]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.24:274][523]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.24:474][547]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.24:674][571]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.24:874][595]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.25:074][619]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.25:274][643]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.25:474][667]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.25:674][691]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.25:874][715]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.26:074][739]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.26:274][763]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.26:474][787]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.26:674][811]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.26:874][835]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.27:074][859]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.27:274][883]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.27:474][907]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.27:674][931]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.27:874][955]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.28:074][979]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.28:274][  3]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.28:474][ 27]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.28:674][ 51]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.28:874][ 75]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.29:074][ 99]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.29:274][123]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.29:474][147]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.29:674][171]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.29:874][195]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.30:074][219]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.30:077][219]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave lightning...
+[2022.04.03-12.35.30:077][219]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/lightning.lightning will be modified from 40 to 40.
+[2022.04.03-12.35.30:112][219]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 448056 while cooking SoundWave /Game/Sounds/lightning.lightning.
+[2022.04.03-12.35.30:276][239]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.30:476][263]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.30:675][287]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.30:875][311]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.31:076][335]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.31:276][359]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.31:475][383]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.31:676][407]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.31:875][431]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.32:076][455]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.32:276][479]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.32:476][503]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.32:676][527]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.32:876][551]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.33:076][575]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.33:276][599]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.33:476][623]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.33:676][647]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.33:876][671]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.34:076][695]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.34:275][719]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.34:476][743]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.34:676][767]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.34:875][791]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.35:076][815]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.35:276][839]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.35:476][863]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.35:675][887]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.35:875][911]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.36:076][935]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.36:275][959]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.36:476][983]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.36:676][  7]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.36:876][ 31]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.37:076][ 55]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.37:275][ 79]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.37:476][103]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.37:676][127]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.37:876][151]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.35.37:963][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.03-12.35.37:963][158]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2022.04.03-12.35.37:963][158]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.03-12.35.37:964][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.03-12.35.37:971][158]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.03-12.35.37:981][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.03-12.35.37:995][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.03-12.35.37:995][158]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.03-12.35.37:996][158]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.03-12.35.38:002][158]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.04.03-12.35.38:044][159]LogPlayLevel: Display: Destroying online subsystem :Context_136
+[2022.04.03-12.36.07:444][907]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/ParticleEffects/PS_Lightning.PS_Lightning
+[2022.04.03-12.36.07:492][907]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Cascade' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2022.04.03-12.45.30:559][209]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2022.04.03-12.45.30:962][209]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/MainMap_Auto7081D1D364AA2674AAEC3ED893E605EC6.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/Autosaves/Game/MainMap_Auto7.umap'
+[2022.04.03-12.45.30:964][209]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainMap' took 0.451
+[2022.04.03-12.45.30:964][209]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.451
+[2022.04.03-12.45.30:964][209]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds/lightning] ([1] browsable assets)...
+[2022.04.03-12.45.30:968][209]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds/lightning.lightning]
+[2022.04.03-12.45.30:968][209]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/lightning]
+[2022.04.03-12.45.30:970][209]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/lightning_Auto7EF20844F49D49DF49C730595B48D4ED3.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/Autosaves/Game/Sounds/lightning_Auto7.uasset'
+[2022.04.03-12.45.30:970][209]LogFileHelpers: Auto-saving content packages took 0.006
+[2022.04.03-12.46.31:482][878]LogCascade: Quitting Cascade. FXSystem=0x0000026EDBC77040
+[2022.04.03-12.46.31:512][878]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2022.04.03-12.46.31:512][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.03-12.46.38:996][547]BlueprintLog: New page: Compile MainMap
+[2022.04.03-12.46.39:051][547]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2022.04.03-12.46.40:890][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.03-12.46.40:910][707]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2022.04.03-12.46.41:326][707]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/MainMapF2501D6A4761FEE4B692BCA504D71340.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/MainMap.umap'
+[2022.04.03-12.46.41:332][707]LogFileHelpers: Saving map 'MainMap' took 0.443
+[2022.04.03-12.46.41:345][707]AssetCheck: New page: Asset Save: MainMap
+[2022.04.03-12.46.41:345][707]LogContentValidation: Display: Validating World /Game/MainMap.MainMap
+[2022.04.03-12.46.41:900][761]LogSlate: Window 'MainMap' being destroyed
+[2022.04.03-12.46.41:913][761]LogSlate: Window 'MainMap' being destroyed
+[2022.04.03-12.46.41:915][761]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2022.04.03-12.46.41:915][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.03-12.46.44:407][994]LogContentBrowser: Deferred new asset file creation: NewParticleSystem
+[2022.04.03-12.46.44:420][994]LogContentBrowser: Creating deferred item: NewParticleSystem
+[2022.04.03-12.46.49:450][573]LogContentBrowser: Attempting asset rename: NewParticleSystem -> PS_Lightning2
+[2022.04.03-12.46.49:451][573]LogContentBrowser: End creating deferred item NewParticleSystem
+[2022.04.03-12.46.51:574][762]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2022.04.03-12.46.52:851][762]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.03-12.46.52:979][762]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.04.03-12.46.52:998][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.04.03-12.46.53:009][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.04.03-12.46.54:938][967]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/ParticleEffects/PS_Lightning2.PS_Lightning2
+[2022.04.03-12.46.59:598][378]LogSlate: Window 'PS_Lightning2' being destroyed
+[2022.04.03-12.46.59:611][378]LogSlate: Window 'PS_Lightning2' being destroyed
+[2022.04.03-12.46.59:611][378]LogCascade: Quitting Cascade. FXSystem=0x0000026E78C3C3A0
+[2022.04.03-12.46.59:615][378]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2022.04.03-12.46.59:615][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.03-12.47.02:307][624]LogContentBrowser: Deferred new asset file creation: PS_Lightning1
+[2022.04.03-12.47.02:318][624]LogContentBrowser: Creating deferred item: PS_Lightning1
+[2022.04.03-12.47.04:883][932]LogContentBrowser: Attempting asset rename: PS_Lightning1 -> PS_Lightning1
+[2022.04.03-12.47.04:884][932]LogContentBrowser: End creating deferred item PS_Lightning1
+[2022.04.03-12.47.06:452][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.04.03-12.47.07:660][ 88]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.03-12.47.07:705][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.04.03-12.47.08:440][154]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/ParticleEffects/PS_Lightning1.PS_Lightning1
+[2022.04.03-12.47.19:571][146]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.04.03-12.47.19:590][146]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.04.03-12.48.04:516][208]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/PS_Lightning15454E4D342C6C8881E227BA40AD3E084.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/ParticleEffects/PS_Lightning1.uasset'
+[2022.04.03-12.48.04:528][208]AssetCheck: New page: Asset Save: PS_Lightning1
+[2022.04.03-12.48.04:528][208]LogContentValidation: Display: Validating ParticleSystem /Game/ParticleEffects/PS_Lightning1.PS_Lightning1
+[2022.04.03-12.48.13:450][ 32]LogSlate: Window 'PS_Lightning1' being destroyed
+[2022.04.03-12.48.13:464][ 32]LogSlate: Window 'PS_Lightning1' being destroyed
+[2022.04.03-12.48.13:464][ 32]LogCascade: Quitting Cascade. FXSystem=0x0000026E2E503C10
+[2022.04.03-12.48.13:502][ 32]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2022.04.03-12.48.13:502][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.03-12.48.20:435][696]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MainMap.MainMap:PersistentLevel.MainMap
+[2022.04.03-12.49.50:316][546]BlueprintLog: New page: Compile MainMap
+[2022.04.03-12.49.50:360][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.04.03-12.49.54:876][980]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.03-12.49.54:881][980]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.03-12.49.54:881][980]PIE: New page: PIE session: MainMap (3 Apr 2022, 14:49:54)
+[2022.04.03-12.49.54:902][980]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.04.03-12.49.55:018][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.115928s)
+[2022.04.03-12.49.55:019][980]LogAIModule: Creating AISystem for world MainMap
+[2022.04.03-12.49.55:019][980]LogPlayLevel: PIE: World Init took: (0.000911s)
+[2022.04.03-12.49.55:019][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.116985s)
+[2022.04.03-12.49.55:036][980]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.04.03-12.49.55:038][980]LogAudio: Display: Creating Audio Device:                 Id: 80, Scope: Unique, Realtime: True
+[2022.04.03-12.49.55:038][980]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.03-12.49.55:038][980]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.03-12.49.55:038][980]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.03-12.49.55:038][980]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.03-12.49.55:038][980]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.03-12.49.55:038][980]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.03-12.49.55:038][980]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.03-12.49.55:038][980]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.03-12.49.55:038][980]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.03-12.49.55:038][980]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.03-12.49.55:038][980]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.03-12.49.55:038][980]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.03-12.49.55:042][980]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.03-12.49.55:042][980]LogAudioMixer: Display: 1: FrontRight
+[2022.04.03-12.49.55:052][980]LogAudioMixer: Display: Using Audio Device Headphones (Commuter)
+[2022.04.03-12.49.55:052][980]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.03-12.49.55:053][980]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.03-12.49.55:053][980]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.03-12.49.55:053][980]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.03-12.49.55:053][980]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.03-12.49.55:053][980]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.03-12.49.55:054][980]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.03-12.49.55:054][980]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.03-12.49.55:054][980]LogInit: FAudioDevice initialized.
+[2022.04.03-12.49.55:054][980]LogAudio: Display: Audio Device (ID: 80) registered with world 'MainMap'.
+[2022.04.03-12.49.55:065][980]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.03-12.49.55:067][980]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.04.03-13.49.55
+[2022.04.03-12.49.55:068][980]LogWorld: Bringing up level for play took: 0.001960
+[2022.04.03-12.49.55:068][980]LogOnline: OSS: Creating online subsystem instance for: :Context_141
+[2022.04.03-12.49.55:071][980]PIE: Server logged in
+[2022.04.03-12.49.55:072][980]PIE: Play in editor total start time 0.191 seconds.
+[2022.04.03-12.49.55:120][981]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.49.55:321][  4]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.49.55:520][ 28]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.49.55:721][ 52]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.49.55:920][ 76]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.49.56:120][100]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.49.56:321][124]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.49.56:520][148]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.49.56:722][172]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.49.56:924][196]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.49.57:063][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.03-12.49.57:063][208]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2022.04.03-12.49.57:063][208]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.03-12.49.57:064][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.03-12.49.57:076][208]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.03-12.49.57:085][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.03-12.49.57:101][208]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.03-12.49.57:101][208]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.03-12.49.57:103][208]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.03-12.49.57:106][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.03-12.49.57:110][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.04.03-12.49.57:151][209]LogPlayLevel: Display: Destroying online subsystem :Context_141
+[2022.04.03-12.49.57:860][279]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.03-12.49.57:865][279]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.03-12.49.57:865][279]PIE: New page: PIE session: MainMap (3 Apr 2022, 14:49:57)
+[2022.04.03-12.49.57:892][279]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.04.03-12.49.58:015][279]LogPlayLevel: PIE: StaticDuplicateObject took: (0.122312s)
+[2022.04.03-12.49.58:016][279]LogAIModule: Creating AISystem for world MainMap
+[2022.04.03-12.49.58:016][279]LogPlayLevel: PIE: World Init took: (0.000990s)
+[2022.04.03-12.49.58:016][279]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.123476s)
+[2022.04.03-12.49.58:033][279]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.04.03-12.49.58:034][279]LogAudio: Display: Creating Audio Device:                 Id: 81, Scope: Unique, Realtime: True
+[2022.04.03-12.49.58:034][279]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.03-12.49.58:034][279]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.03-12.49.58:034][279]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.03-12.49.58:034][279]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.03-12.49.58:034][279]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.03-12.49.58:034][279]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.03-12.49.58:034][279]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.03-12.49.58:034][279]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.03-12.49.58:035][279]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.03-12.49.58:035][279]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.03-12.49.58:035][279]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.03-12.49.58:035][279]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.03-12.49.58:038][279]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.03-12.49.58:038][279]LogAudioMixer: Display: 1: FrontRight
+[2022.04.03-12.49.58:045][279]LogAudioMixer: Display: Using Audio Device Headphones (Commuter)
+[2022.04.03-12.49.58:045][279]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.03-12.49.58:045][279]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.03-12.49.58:045][279]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.03-12.49.58:046][279]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.03-12.49.58:046][279]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.03-12.49.58:046][279]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.03-12.49.58:047][279]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.03-12.49.58:047][279]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.03-12.49.58:047][279]LogInit: FAudioDevice initialized.
+[2022.04.03-12.49.58:047][279]LogAudio: Display: Audio Device (ID: 81) registered with world 'MainMap'.
+[2022.04.03-12.49.58:053][279]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.03-12.49.58:056][279]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.04.03-13.49.58
+[2022.04.03-12.49.58:056][279]LogWorld: Bringing up level for play took: 0.002403
+[2022.04.03-12.49.58:056][279]LogOnline: OSS: Creating online subsystem instance for: :Context_142
+[2022.04.03-12.49.58:059][279]PIE: Server logged in
+[2022.04.03-12.49.58:060][279]PIE: Play in editor total start time 0.195 seconds.
+[2022.04.03-12.49.58:108][280]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.49.58:307][304]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.49.58:507][328]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.49.58:708][352]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.49.58:907][376]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.49.59:107][400]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.49.59:307][424]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.49.59:507][448]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.49.59:707][472]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.49.59:907][496]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.00:108][520]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.00:308][544]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.00:507][568]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.00:707][592]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.00:908][616]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.01:108][640]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.01:307][664]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.01:507][688]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.01:707][712]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.01:908][736]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.02:107][760]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.02:308][784]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.02:508][808]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.02:707][832]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.02:908][856]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.03:107][880]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.03:308][904]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.03:508][928]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.03:708][952]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.03:908][976]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.04:108][  0]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.04:308][ 24]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.04:508][ 48]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.04:708][ 72]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.04:908][ 96]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.05:108][120]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.05:308][144]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.05:508][168]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.05:708][192]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.05:908][216]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.06:108][240]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.06:308][264]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.06:508][288]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.06:708][312]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.06:908][336]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.07:108][360]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.07:308][384]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.07:508][408]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.07:708][432]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.07:908][456]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.08:108][480]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.08:308][504]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.08:508][528]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.08:708][552]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.08:908][576]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.09:108][600]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.09:308][624]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.09:508][648]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.09:708][672]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.09:908][696]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.10:108][720]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.10:308][744]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.10:508][768]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.10:710][792]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.10:910][816]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.11:110][840]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.11:310][864]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.11:510][888]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.11:710][912]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.11:910][936]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.12:110][960]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.12:310][984]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.12:510][  8]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.12:710][ 32]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.12:910][ 56]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.13:110][ 80]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.13:310][104]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.13:510][128]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.13:710][152]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.13:911][176]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.14:110][200]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.14:311][224]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.14:510][248]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.14:710][272]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.14:911][296]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.15:110][320]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.15:310][344]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.15:510][368]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.15:710][392]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.15:911][416]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.16:111][440]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.16:310][464]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.16:511][488]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.16:710][512]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.16:911][536]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.17:110][560]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.17:311][582]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.17:515][606]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.17:716][630]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.17:916][654]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.18:116][678]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.18:316][702]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.18:516][726]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.18:716][750]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.18:916][774]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.19:116][798]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.19:316][822]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.19:516][846]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.19:716][870]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.19:916][894]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.20:116][918]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.20:316][942]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.20:516][966]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.20:716][990]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.20:916][ 14]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.21:116][ 38]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.21:316][ 62]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.21:516][ 86]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.21:716][110]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.21:916][134]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.22:116][158]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.22:316][182]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.22:516][206]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.22:716][230]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.22:916][254]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.23:116][278]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.23:316][302]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.23:516][326]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.23:716][350]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.23:916][374]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.24:116][398]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.24:316][422]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.24:516][446]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.24:716][470]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.24:916][494]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.25:116][518]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.25:316][542]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.25:516][566]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.25:716][590]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.25:916][614]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.26:116][638]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.26:316][662]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.26:516][686]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.26:716][710]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.26:916][734]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.27:116][758]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.27:317][782]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.27:516][806]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.27:716][830]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.50.27:916][854]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.28:116][878]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.28:316][902]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.28:516][926]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.28:716][950]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.28:916][974]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.29:116][998]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.29:316][ 22]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.29:516][ 46]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.29:716][ 70]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.29:916][ 94]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.30:116][118]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.30:316][142]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.30:516][166]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.30:716][190]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.30:917][214]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.31:117][238]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.31:316][262]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.31:516][286]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.31:716][310]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.31:916][334]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.32:116][358]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.32:316][382]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.32:516][406]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.32:716][430]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.32:917][454]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.33:117][478]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.33:316][502]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.33:517][526]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.33:716][550]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.33:917][574]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.34:116][598]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.34:316][622]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.34:516][646]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.34:717][670]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.34:916][694]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.35:117][718]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.35:317][742]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.35:517][766]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.35:717][790]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.35:917][814]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.36:116][838]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.36:317][862]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.36:517][886]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.36:717][910]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.36:917][934]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.37:116][958]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.37:316][982]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.37:517][  6]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.37:716][ 30]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.37:917][ 54]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.38:116][ 78]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.38:317][102]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.38:517][126]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.38:717][150]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.38:916][174]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.39:117][198]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.39:317][222]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.39:517][246]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.39:717][270]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.39:916][294]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.40:117][318]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.40:316][342]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.40:517][366]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.40:716][390]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.40:917][414]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.41:117][438]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.41:317][462]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.41:517][486]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.41:717][510]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.41:916][534]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.42:117][558]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.42:317][582]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.42:517][606]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.42:717][630]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.42:917][654]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.43:117][678]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.43:316][702]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.43:517][726]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.43:716][750]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.43:917][774]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.44:116][798]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.44:317][822]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.44:517][846]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.44:717][870]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.44:917][894]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.45:117][918]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.45:317][942]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.45:517][966]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.45:717][990]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.45:917][ 14]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.46:117][ 38]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.46:316][ 62]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.46:517][ 86]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.46:716][110]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.46:917][134]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.47:116][158]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.47:317][182]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.47:517][206]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.47:717][230]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.47:917][254]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.48:117][278]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.48:317][302]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.48:517][326]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.48:717][350]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.48:917][374]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.49:117][398]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.49:317][422]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.49:517][446]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.49:717][470]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.49:917][494]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.50:117][518]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.50:317][542]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.50:517][566]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.50:717][590]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.50:917][614]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.51:117][638]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.51:317][662]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.51:517][686]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.51:717][710]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.51:917][734]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.52:117][758]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.52:317][782]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.52:517][806]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.52:717][830]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.52:917][854]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.53:117][878]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.53:317][902]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.53:517][926]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.53:717][950]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.53:917][974]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.54:117][998]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.54:317][ 22]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.54:517][ 46]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.54:717][ 70]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.54:917][ 94]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.55:117][118]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.55:317][142]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.55:517][166]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.55:717][190]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.55:917][214]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.56:117][238]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.56:317][262]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.56:517][286]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.56:717][310]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.56:917][334]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.57:117][358]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.57:317][382]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.57:517][406]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.57:717][430]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.57:917][454]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.58:117][478]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.58:317][502]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.58:517][526]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.58:717][550]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.58:917][574]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.59:117][598]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.59:317][622]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.59:517][646]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.59:717][670]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.50.59:917][694]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.00:117][718]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.00:317][742]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.00:517][766]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.00:717][790]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.00:917][814]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.01:117][838]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.01:317][862]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.01:517][886]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.01:717][910]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.01:917][934]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.02:117][958]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.02:317][982]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.02:517][  6]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.02:717][ 30]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.02:917][ 54]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.03:117][ 78]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.03:317][102]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.03:517][126]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.03:717][150]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.03:917][174]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.04:117][198]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.04:317][222]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.04:517][246]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.04:717][270]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.04:917][294]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.05:117][318]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.05:317][342]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.05:517][366]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.05:717][390]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.05:917][414]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.06:117][438]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.06:317][462]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.06:517][486]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.06:717][510]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.06:917][534]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.07:117][558]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.07:317][582]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.07:517][606]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.07:717][630]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.07:917][654]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.08:117][678]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.08:317][702]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.08:517][726]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.08:718][750]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.08:917][774]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.09:117][798]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.09:317][822]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.09:517][846]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.09:717][870]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.09:917][894]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.10:117][918]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.10:317][942]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.10:517][966]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.10:717][990]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.10:918][ 14]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.11:117][ 38]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-12.51.11:203][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.03-12.51.11:203][ 43]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2022.04.03-12.51.11:203][ 43]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.03-12.51.11:204][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.03-12.51.11:214][ 43]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.03-12.51.11:223][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.03-12.51.11:239][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.03-12.51.11:240][ 43]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.03-12.51.11:240][ 43]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.03-12.51.11:246][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.04.03-12.51.11:288][ 44]LogPlayLevel: Display: Destroying online subsystem :Context_142
+[2022.04.03-12.52.25:925][486]BlueprintLog: New page: Compile MainMap
+[2022.04.03-12.52.25:968][486]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.04.03-12.52.36:374][295]BlueprintLog: New page: Compile MainMap
+[2022.04.03-12.52.36:418][295]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.04.03-12.52.50:320][376]BlueprintLog: New page: Compile MainMap
+[2022.04.03-12.52.50:364][376]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.04.03-12.52.51:084][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.03-12.52.51:102][428]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.04.03-12.52.51:524][428]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/MainMapD9374DCD49414F88939ED2AF28D6CDE7.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/MainMap.umap'
+[2022.04.03-12.52.51:530][428]LogFileHelpers: Saving map 'MainMap' took 0.447
+[2022.04.03-12.52.51:540][428]AssetCheck: New page: Asset Save: MainMap
+[2022.04.03-12.52.51:541][428]LogContentValidation: Display: Validating World /Game/MainMap.MainMap
+[2022.04.03-12.53.24:078][ 80]BlueprintLog: New page: Compile MainMap
+[2022.04.03-12.53.24:121][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.04.03-12.53.37:781][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.03-12.53.37:799][215]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.04.03-12.53.38:221][215]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/MainMap0ECC2F4049F67939D5200491832EA302.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/MainMap.umap'
+[2022.04.03-12.53.38:228][215]LogFileHelpers: Saving map 'MainMap' took 0.447
+[2022.04.03-12.53.38:240][215]AssetCheck: New page: Asset Save: MainMap
+[2022.04.03-12.53.38:240][215]LogContentValidation: Display: Validating World /Game/MainMap.MainMap
+[2022.04.03-12.53.39:768][347]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.03-12.53.39:773][347]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.03-12.53.39:773][347]PIE: New page: PIE session: MainMap (3 Apr 2022, 14:53:39)
+[2022.04.03-12.53.39:802][347]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.04.03-12.53.39:923][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.120144s)
+[2022.04.03-12.53.39:924][347]LogAIModule: Creating AISystem for world MainMap
+[2022.04.03-12.53.39:924][347]LogPlayLevel: PIE: World Init took: (0.001068s)
+[2022.04.03-12.53.39:924][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.121408s)
+[2022.04.03-12.53.39:941][347]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.04.03-12.53.39:942][347]LogAudio: Display: Creating Audio Device:                 Id: 82, Scope: Unique, Realtime: True
+[2022.04.03-12.53.39:942][347]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.03-12.53.39:942][347]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.03-12.53.39:942][347]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.03-12.53.39:942][347]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.03-12.53.39:942][347]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.03-12.53.39:942][347]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.03-12.53.39:942][347]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.03-12.53.39:942][347]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.03-12.53.39:942][347]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.03-12.53.39:942][347]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.03-12.53.39:942][347]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.03-12.53.39:942][347]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.03-12.53.39:946][347]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.03-12.53.39:946][347]LogAudioMixer: Display: 1: FrontRight
+[2022.04.03-12.53.39:956][347]LogAudioMixer: Display: Using Audio Device Headphones (Commuter)
+[2022.04.03-12.53.39:956][347]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.03-12.53.39:956][347]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.03-12.53.39:956][347]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.03-12.53.39:957][347]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.03-12.53.39:957][347]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.03-12.53.39:957][347]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.03-12.53.39:958][347]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.03-12.53.39:958][347]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.03-12.53.39:958][347]LogInit: FAudioDevice initialized.
+[2022.04.03-12.53.39:958][347]LogAudio: Display: Audio Device (ID: 82) registered with world 'MainMap'.
+[2022.04.03-12.53.39:965][347]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.03-12.53.39:967][347]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.04.03-13.53.39
+[2022.04.03-12.53.39:968][347]LogWorld: Bringing up level for play took: 0.002140
+[2022.04.03-12.53.39:968][347]LogOnline: OSS: Creating online subsystem instance for: :Context_143
+[2022.04.03-12.53.39:971][347]PIE: Server logged in
+[2022.04.03-12.53.39:971][347]PIE: Play in editor total start time 0.2 seconds.
+[2022.04.03-12.53.40:023][348]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.53.40:228][372]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.53.40:430][396]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.53.40:630][420]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.53.40:830][444]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.53.41:029][468]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.53.41:229][492]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.53.41:429][516]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.53.41:629][540]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.53.41:829][564]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.53.42:030][588]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.53.42:229][612]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.53.42:430][636]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.03-12.53.42:563][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.03-12.53.42:563][649]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2022.04.03-12.53.42:564][649]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.03-12.53.42:564][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.03-12.53.42:573][649]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.03-12.53.42:582][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.03-12.53.42:598][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.03-12.53.42:598][649]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.03-12.53.42:599][649]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.03-12.53.42:605][649]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.04.03-12.53.42:640][650]LogPlayLevel: Display: Destroying online subsystem :Context_143
+[2022.04.03-12.53.43:185][702]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.03-12.53.43:190][702]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.03-12.53.43:190][702]PIE: New page: PIE session: MainMap (3 Apr 2022, 14:53:43)
+[2022.04.03-12.53.43:212][702]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.04.03-12.53.43:332][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.119406s)
+[2022.04.03-12.53.43:333][702]LogAIModule: Creating AISystem for world MainMap
+[2022.04.03-12.53.43:333][702]LogPlayLevel: PIE: World Init took: (0.000961s)
+[2022.04.03-12.53.43:333][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.120528s)
+[2022.04.03-12.53.43:350][702]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.04.03-12.53.43:351][702]LogAudio: Display: Creating Audio Device:                 Id: 83, Scope: Unique, Realtime: True
+[2022.04.03-12.53.43:352][702]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.03-12.53.43:352][702]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.03-12.53.43:352][702]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.03-12.53.43:352][702]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.03-12.53.43:352][702]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.03-12.53.43:352][702]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.03-12.53.43:352][702]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.03-12.53.43:352][702]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.03-12.53.43:352][702]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.03-12.53.43:352][702]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.03-12.53.43:352][702]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.03-12.53.43:353][702]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.03-12.53.43:356][702]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.03-12.53.43:356][702]LogAudioMixer: Display: 1: FrontRight
+[2022.04.03-12.53.43:366][702]LogAudioMixer: Display: Using Audio Device Headphones (Commuter)
+[2022.04.03-12.53.43:366][702]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.03-12.53.43:366][702]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.03-12.53.43:366][702]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.03-12.53.43:367][702]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.03-12.53.43:367][702]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.03-12.53.43:367][702]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.03-12.53.43:368][702]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.03-12.53.43:368][702]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.03-12.53.43:368][702]LogInit: FAudioDevice initialized.
+[2022.04.03-12.53.43:368][702]LogAudio: Display: Audio Device (ID: 83) registered with world 'MainMap'.
+[2022.04.03-12.53.43:379][702]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.03-12.53.43:381][702]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.04.03-13.53.43
+[2022.04.03-12.53.43:381][702]LogWorld: Bringing up level for play took: 0.002018
+[2022.04.03-12.53.43:381][702]LogOnline: OSS: Creating online subsystem instance for: :Context_144
+[2022.04.03-12.53.43:385][702]PIE: Server logged in
+[2022.04.03-12.53.43:385][702]PIE: Play in editor total start time 0.196 seconds.
+[2022.04.03-12.53.43:431][703]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.43:635][727]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.43:835][751]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.44:036][775]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.44:236][799]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.44:436][823]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.44:636][847]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.44:836][871]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.45:036][895]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.45:236][919]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.45:436][943]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.45:636][967]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.45:836][991]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.46:036][ 15]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.46:236][ 39]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.46:436][ 63]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.46:637][ 87]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.46:836][111]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.47:036][135]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.47:236][159]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.47:437][183]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.47:651][207]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.47:840][229]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.48:041][253]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.48:240][277]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.48:441][301]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.48:640][325]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.48:841][349]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.49:040][373]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.49:241][397]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.49:440][421]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.49:640][445]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.49:841][469]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.50:041][493]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.50:241][517]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.50:440][541]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.50:640][565]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.50:840][589]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.51:041][613]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.51:240][637]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.51:441][661]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.51:641][685]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.51:840][709]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.52:041][733]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.52:240][757]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.52:441][781]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.52:641][805]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.52:840][829]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.53:041][853]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.53:240][877]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.53:440][901]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.53:640][925]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.53:841][949]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.54:041][973]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.54:241][997]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.54:441][ 21]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.54:640][ 45]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.54:841][ 69]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.55:041][ 93]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.55:240][117]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.55:441][141]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.55:640][165]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.55:841][189]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.56:041][213]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.56:240][237]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.56:441][261]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.56:640][285]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.56:841][309]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.57:040][333]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.57:241][357]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.57:440][381]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.57:641][405]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.57:841][429]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.58:041][453]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.58:241][477]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.58:441][501]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.58:641][525]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.58:841][549]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.59:041][573]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.59:241][597]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.59:441][621]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.59:641][645]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.53.59:843][669]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.00:043][693]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.00:243][717]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.00:444][741]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.00:643][765]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.00:843][789]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.01:044][813]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.01:243][837]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.01:443][861]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.01:643][885]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.01:844][909]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.02:043][933]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.02:244][957]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.02:444][981]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.02:643][  5]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.02:844][ 29]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.03:043][ 53]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.03:243][ 77]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.03:443][101]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.03:643][125]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.03:844][149]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.04:043][173]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.04:243][197]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.04:443][221]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.04:643][245]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.04:843][269]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.05:043][293]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.05:243][317]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.05:443][341]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.05:644][365]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.05:843][389]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.06:043][413]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.06:244][437]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.06:443][461]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.06:644][485]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.06:843][509]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.07:044][533]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.07:243][557]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.07:444][581]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.07:643][605]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.07:844][629]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.08:044][653]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.08:243][677]LogBlueprintUserMessages: [BP_Weather_4] Raining
+[2022.04.03-12.54.08:373][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.03-12.54.08:373][688]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2022.04.03-12.54.08:373][688]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.03-12.54.08:374][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.03-12.54.08:386][688]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.03-12.54.08:396][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.03-12.54.08:411][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.03-12.54.08:411][688]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.03-12.54.08:412][688]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.03-12.54.08:418][688]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.04.03-12.54.08:458][689]LogPlayLevel: Display: Destroying online subsystem :Context_144
+[2022.04.03-12.54.21:808][211]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/ParticleEffects/PS_Lightning1.PS_Lightning1
+[2022.04.03-12.55.20:893][228]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.04.03-12.55.20:912][228]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.04.03-12.55.24:297][526]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/PS_Lightning12DD792C14835A7BB3B1898BCC7085C09.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/ParticleEffects/PS_Lightning1.uasset'
+[2022.04.03-12.55.24:308][526]AssetCheck: New page: Asset Save: PS_Lightning1
+[2022.04.03-12.55.24:308][526]LogContentValidation: Display: Validating ParticleSystem /Game/ParticleEffects/PS_Lightning1.PS_Lightning1
+[2022.04.03-12.55.37:357][744]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/PS_Lightning1F40E3BDF4F47D3742642199CEA385CA5.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/ParticleEffects/PS_Lightning1.uasset'
+[2022.04.03-12.55.37:368][744]AssetCheck: New page: Asset Save: PS_Lightning1
+[2022.04.03-12.55.37:368][744]LogContentValidation: Display: Validating ParticleSystem /Game/ParticleEffects/PS_Lightning1.PS_Lightning1
+[2022.04.03-12.56.02:165][845]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/PS_Lightning19DD9C88344558D72297BAB96DD75A017.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/ParticleEffects/PS_Lightning1.uasset'
+[2022.04.03-12.56.02:175][845]AssetCheck: New page: Asset Save: PS_Lightning1
+[2022.04.03-12.56.02:176][845]LogContentValidation: Display: Validating ParticleSystem /Game/ParticleEffects/PS_Lightning1.PS_Lightning1
+[2022.04.03-13.02.03:429][687]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/PS_Lightning1D1040C4645DD120FCAC052850BB58B4D.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/ParticleEffects/PS_Lightning1.uasset'
+[2022.04.03-13.02.03:440][687]AssetCheck: New page: Asset Save: PS_Lightning1
+[2022.04.03-13.02.03:440][687]LogContentValidation: Display: Validating ParticleSystem /Game/ParticleEffects/PS_Lightning1.PS_Lightning1
+[2022.04.03-13.04.11:163][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.04.03-13.04.11:170][477]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainMap' took 0.024
+[2022.04.03-13.04.11:170][477]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParticleEffects/PS_Lightning1] ([1] browsable assets)...
+[2022.04.03-13.04.11:173][477]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/ParticleEffects/PS_Lightning1.PS_Lightning1]
+[2022.04.03-13.04.11:173][477]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParticleEffects/PS_Lightning1]
+[2022.04.03-13.04.11:176][477]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/PS_Lightning1_Auto8D50E3DF64778208CF0AC4EB65EDFA4F4.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/Autosaves/Game/ParticleEffects/PS_Lightning1_Auto8.uasset'
+[2022.04.03-13.04.11:177][477]LogFileHelpers: Auto-saving content packages took 0.007
+[2022.04.03-13.05.00:620][588]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/PS_Lightning188B1B80C4FBCCA0FD148B68CB965AA5D.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/ParticleEffects/PS_Lightning1.uasset'
+[2022.04.03-13.05.00:631][588]AssetCheck: New page: Asset Save: PS_Lightning1
+[2022.04.03-13.05.00:631][588]LogContentValidation: Display: Validating ParticleSystem /Game/ParticleEffects/PS_Lightning1.PS_Lightning1
+[2022.04.03-13.05.35:671][867]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/PS_Lightning1D9EE12CF4C0CA3F0863318AA433E2C9B.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/ParticleEffects/PS_Lightning1.uasset'
+[2022.04.03-13.05.35:682][867]AssetCheck: New page: Asset Save: PS_Lightning1
+[2022.04.03-13.05.35:682][867]LogContentValidation: Display: Validating ParticleSystem /Game/ParticleEffects/PS_Lightning1.PS_Lightning1
+[2022.04.03-13.09.16:156][146]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/PS_Lightning18AEB30844E85CCB426965D94AD38BAB4.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/ParticleEffects/PS_Lightning1.uasset'
+[2022.04.03-13.09.16:166][146]AssetCheck: New page: Asset Save: PS_Lightning1
+[2022.04.03-13.09.16:166][146]LogContentValidation: Display: Validating ParticleSystem /Game/ParticleEffects/PS_Lightning1.PS_Lightning1
+[2022.04.03-13.11.09:845][399]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/PS_Lightning16CB79D7C4FFD94132373489F06D6E6C5.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/ParticleEffects/PS_Lightning1.uasset'
+[2022.04.03-13.11.09:855][399]AssetCheck: New page: Asset Save: PS_Lightning1
+[2022.04.03-13.11.09:855][399]LogContentValidation: Display: Validating ParticleSystem /Game/ParticleEffects/PS_Lightning1.PS_Lightning1
+[2022.04.03-13.11.25:573][892]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/PS_Lightning1AF053B6E43073E28ABF4128480F4FC7A.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/ParticleEffects/PS_Lightning1.uasset'
+[2022.04.03-13.11.25:586][892]AssetCheck: New page: Asset Save: PS_Lightning1
+[2022.04.03-13.11.25:586][892]LogContentValidation: Display: Validating ParticleSystem /Game/ParticleEffects/PS_Lightning1.PS_Lightning1
+[2022.04.03-13.11.44:867][738]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/PS_Lightning146FACB024A58A9BF43E36B9B6CE70FEF.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/ParticleEffects/PS_Lightning1.uasset'
+[2022.04.03-13.11.44:877][738]AssetCheck: New page: Asset Save: PS_Lightning1
+[2022.04.03-13.11.44:877][738]LogContentValidation: Display: Validating ParticleSystem /Game/ParticleEffects/PS_Lightning1.PS_Lightning1
+[2022.04.03-13.11.56:413][837]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/PS_Lightning1FAA9663D4E3997DDA4FEFC998DB1915E.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/ParticleEffects/PS_Lightning1.uasset'
+[2022.04.03-13.11.56:424][837]AssetCheck: New page: Asset Save: PS_Lightning1
+[2022.04.03-13.11.56:424][837]LogContentValidation: Display: Validating ParticleSystem /Game/ParticleEffects/PS_Lightning1.PS_Lightning1
+[2022.04.03-13.12.08:324][948]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/PS_Lightning148EDB0C24D60AA8D3D86C1A58A49EC45.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/ParticleEffects/PS_Lightning1.uasset'
+[2022.04.03-13.12.08:335][948]AssetCheck: New page: Asset Save: PS_Lightning1
+[2022.04.03-13.12.08:335][948]LogContentValidation: Display: Validating ParticleSystem /Game/ParticleEffects/PS_Lightning1.PS_Lightning1
+[2022.04.03-13.12.18:686][906]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/PS_Lightning1667B1A7641905F2A8C92DCB5596C07FF.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/ParticleEffects/PS_Lightning1.uasset'
+[2022.04.03-13.12.18:696][906]AssetCheck: New page: Asset Save: PS_Lightning1
+[2022.04.03-13.12.18:696][906]LogContentValidation: Display: Validating ParticleSystem /Game/ParticleEffects/PS_Lightning1.PS_Lightning1
+[2022.04.03-13.12.28:914][845]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/PS_Lightning12F00F97748C61F8832FDE898349E11DE.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/ParticleEffects/PS_Lightning1.uasset'
+[2022.04.03-13.12.28:926][845]AssetCheck: New page: Asset Save: PS_Lightning1
+[2022.04.03-13.12.28:926][845]LogContentValidation: Display: Validating ParticleSystem /Game/ParticleEffects/PS_Lightning1.PS_Lightning1
+[2022.04.03-13.12.44:814][328]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/PS_Lightning188B3A8954CA58FB01670919726DFE71A.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/ParticleEffects/PS_Lightning1.uasset'
+[2022.04.03-13.12.44:824][328]AssetCheck: New page: Asset Save: PS_Lightning1
+[2022.04.03-13.12.44:824][328]LogContentValidation: Display: Validating ParticleSystem /Game/ParticleEffects/PS_Lightning1.PS_Lightning1
+[2022.04.03-13.13.24:248][104]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/PS_Lightning172B02EDC4DBFD65F770D72920C178111.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/ParticleEffects/PS_Lightning1.uasset'
+[2022.04.03-13.13.24:258][104]AssetCheck: New page: Asset Save: PS_Lightning1
+[2022.04.03-13.13.24:258][104]LogContentValidation: Display: Validating ParticleSystem /Game/ParticleEffects/PS_Lightning1.PS_Lightning1
+[2022.04.03-13.13.27:848][428]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/PS_Lightning1746C109C4106C252941F8D973B98F26D.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/ParticleEffects/PS_Lightning1.uasset'
+[2022.04.03-13.13.27:858][428]AssetCheck: New page: Asset Save: PS_Lightning1
+[2022.04.03-13.13.27:858][428]LogContentValidation: Display: Validating ParticleSystem /Game/ParticleEffects/PS_Lightning1.PS_Lightning1
+[2022.04.03-13.13.34:490][ 43]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/PS_Lightning10012A1CC4E2155DABCEA9385C960007C.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/ParticleEffects/PS_Lightning1.uasset'
+[2022.04.03-13.13.34:500][ 43]AssetCheck: New page: Asset Save: PS_Lightning1
+[2022.04.03-13.13.34:500][ 43]LogContentValidation: Display: Validating ParticleSystem /Game/ParticleEffects/PS_Lightning1.PS_Lightning1
+[2022.04.03-13.13.50:362][508]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/PS_Lightning11A38CF4E4AB6E200A3951ABD050B7BF0.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/ParticleEffects/PS_Lightning1.uasset'
+[2022.04.03-13.13.50:372][508]AssetCheck: New page: Asset Save: PS_Lightning1
+[2022.04.03-13.13.50:372][508]LogContentValidation: Display: Validating ParticleSystem /Game/ParticleEffects/PS_Lightning1.PS_Lightning1
+[2022.04.03-13.14.01:557][560]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/PS_Lightning1317B55E9403617EE7D7C5C9D6C85BC7D.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/ParticleEffects/PS_Lightning1.uasset'
+[2022.04.03-13.14.01:568][560]AssetCheck: New page: Asset Save: PS_Lightning1
+[2022.04.03-13.14.01:568][560]LogContentValidation: Display: Validating ParticleSystem /Game/ParticleEffects/PS_Lightning1.PS_Lightning1
+[2022.04.03-13.14.13:140][611]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/PS_Lightning1949B2E75490899644BA5D1A12E42F8F0.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/ParticleEffects/PS_Lightning1.uasset'
+[2022.04.03-13.14.13:149][611]AssetCheck: New page: Asset Save: PS_Lightning1
+[2022.04.03-13.14.13:149][611]LogContentValidation: Display: Validating ParticleSystem /Game/ParticleEffects/PS_Lightning1.PS_Lightning1
+[2022.04.03-13.14.21:719][425]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/PS_Lightning14A844352455F05158350FA9DEDCFBA17.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/ParticleEffects/PS_Lightning1.uasset'
+[2022.04.03-13.14.21:730][425]AssetCheck: New page: Asset Save: PS_Lightning1
+[2022.04.03-13.14.21:730][425]LogContentValidation: Display: Validating ParticleSystem /Game/ParticleEffects/PS_Lightning1.PS_Lightning1
+[2022.04.03-13.14.40:527][183]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/PS_Lightning11DFAB28B46ABD03FA608389EDDB0B156.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/ParticleEffects/PS_Lightning1.uasset'
+[2022.04.03-13.14.40:537][183]AssetCheck: New page: Asset Save: PS_Lightning1
+[2022.04.03-13.14.40:537][183]LogContentValidation: Display: Validating ParticleSystem /Game/ParticleEffects/PS_Lightning1.PS_Lightning1
+[2022.04.03-13.16.01:965][718]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/PS_Lightning1A9B0AB3E41914089DAB3E89CB0B10292.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/ParticleEffects/PS_Lightning1.uasset'
+[2022.04.03-13.16.01:974][718]AssetCheck: New page: Asset Save: PS_Lightning1
+[2022.04.03-13.16.01:975][718]LogContentValidation: Display: Validating ParticleSystem /Game/ParticleEffects/PS_Lightning1.PS_Lightning1
+[2022.04.03-13.17.04:755][619]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/PS_Lightning122EA9FDE4A07F91B6B63F38BE187498A.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/ParticleEffects/PS_Lightning1.uasset'
+[2022.04.03-13.17.04:766][619]AssetCheck: New page: Asset Save: PS_Lightning1
+[2022.04.03-13.17.04:766][619]LogContentValidation: Display: Validating ParticleSystem /Game/ParticleEffects/PS_Lightning1.PS_Lightning1
+[2022.04.03-13.17.14:538][527]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/PS_Lightning10CF99F0E44638A30B8C3E4B985947B14.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/ParticleEffects/PS_Lightning1.uasset'
+[2022.04.03-13.17.14:548][527]AssetCheck: New page: Asset Save: PS_Lightning1
+[2022.04.03-13.17.14:548][527]LogContentValidation: Display: Validating ParticleSystem /Game/ParticleEffects/PS_Lightning1.PS_Lightning1
+[2022.04.03-13.17.35:752][568]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/PS_Lightning1600CD8AE46EA87EDAC00AAACBC226E0F.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/ParticleEffects/PS_Lightning1.uasset'
+[2022.04.03-13.17.35:762][568]AssetCheck: New page: Asset Save: PS_Lightning1
+[2022.04.03-13.17.35:762][568]LogContentValidation: Display: Validating ParticleSystem /Game/ParticleEffects/PS_Lightning1.PS_Lightning1
+[2022.04.03-13.18.29:477][184]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/PS_Lightning16AB9919445A11ED95C9E6CBD74389856.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/ParticleEffects/PS_Lightning1.uasset'
+[2022.04.03-13.18.29:487][184]AssetCheck: New page: Asset Save: PS_Lightning1
+[2022.04.03-13.18.29:487][184]LogContentValidation: Display: Validating ParticleSystem /Game/ParticleEffects/PS_Lightning1.PS_Lightning1
+[2022.04.03-13.18.38:828][ 87]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2022.04.03-13.18.38:880][ 88]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape1)
+[2022.04.03-13.18.39:892][206]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2022.04.03-13.18.40:385][263]LogEditorViewport: Clicking on Actor (LMB): Emitter (PS_Lightning1)
+[2022.04.03-13.18.42:363][482]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.03-13.18.42:367][482]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.03-13.18.42:368][482]PIE: New page: PIE session: MainMap (3 Apr 2022, 15:18:42)
+[2022.04.03-13.18.42:392][482]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.04.03-13.18.42:510][482]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117501s)
+[2022.04.03-13.18.42:510][482]LogAIModule: Creating AISystem for world MainMap
+[2022.04.03-13.18.42:510][482]LogPlayLevel: PIE: World Init took: (0.000943s)
+[2022.04.03-13.18.42:510][482]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.118582s)
+[2022.04.03-13.18.42:528][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.04.03-13.18.42:534][482]LogAudio: Display: Creating Audio Device:                 Id: 84, Scope: Unique, Realtime: True
+[2022.04.03-13.18.42:534][482]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.03-13.18.42:534][482]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.03-13.18.42:534][482]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.03-13.18.42:534][482]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.03-13.18.42:534][482]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.03-13.18.42:534][482]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.03-13.18.42:534][482]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.03-13.18.42:535][482]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.03-13.18.42:535][482]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.03-13.18.42:535][482]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.03-13.18.42:535][482]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.03-13.18.42:535][482]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.03-13.18.42:539][482]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.03-13.18.42:539][482]LogAudioMixer: Display: 1: FrontRight
+[2022.04.03-13.18.42:550][482]LogAudioMixer: Display: Using Audio Device Headphones (Commuter)
+[2022.04.03-13.18.42:550][482]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.03-13.18.42:550][482]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.03-13.18.42:550][482]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.03-13.18.42:550][482]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.03-13.18.42:550][482]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.03-13.18.42:550][482]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.03-13.18.42:551][482]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.03-13.18.42:551][482]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.03-13.18.42:551][482]LogInit: FAudioDevice initialized.
+[2022.04.03-13.18.42:551][482]LogAudio: Display: Audio Device (ID: 84) registered with world 'MainMap'.
+[2022.04.03-13.18.42:558][482]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.03-13.18.42:560][482]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.04.03-14.18.42
+[2022.04.03-13.18.42:560][482]LogWorld: Bringing up level for play took: 0.001995
+[2022.04.03-13.18.42:560][482]LogOnline: OSS: Creating online subsystem instance for: :Context_146
+[2022.04.03-13.18.42:564][482]PIE: Server logged in
+[2022.04.03-13.18.42:564][482]PIE: Play in editor total start time 0.197 seconds.
+[2022.04.03-13.18.42:613][483]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-13.18.42:816][505]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-13.18.43:015][529]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-13.18.43:215][553]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-13.18.43:416][577]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-13.18.43:615][601]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-13.18.43:815][625]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-13.18.44:016][649]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-13.18.44:216][673]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-13.18.44:416][697]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-13.18.44:615][721]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-13.18.44:815][745]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-13.18.45:016][769]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-13.18.45:216][793]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-13.18.45:415][817]LogBlueprintUserMessages: [BP_Weather_4] Normal
+[2022.04.03-13.18.45:573][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.03-13.18.45:573][832]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2022.04.03-13.18.45:573][832]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.03-13.18.45:574][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.03-13.18.45:583][832]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.03-13.18.45:594][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.03-13.18.45:609][832]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.03-13.18.45:609][832]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.03-13.18.45:610][832]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.03-13.18.45:611][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.03-13.18.45:615][832]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.04.03-13.18.45:652][833]LogPlayLevel: Display: Destroying online subsystem :Context_146
+[2022.04.03-13.19.08:079][960]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.04.03-13.19.12:627][960]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.03-13.19.14:017][ 87]Cmd: DELETE
+[2022.04.03-13.19.14:017][ 87]Cmd: ACTOR DELETE
+[2022.04.03-13.19.14:022][ 87]LogEditorActor: Deleted Actor: Emitter
+[2022.04.03-13.19.14:040][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.04.03-13.19.14:041][ 87]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2022.04.03-13.19.16:174][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.04.03-13.19.18:480][327]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.03-13.19.29:847][363]BlueprintLog: New page: Compile MainMap
+[2022.04.03-13.19.29:888][363]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.04.03-13.19.30:308][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.03-13.19.30:324][396]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.04.03-13.19.30:732][396]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/MainMap9ADDFDCC41299CA745E5BDAC1B652542.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/MainMap.umap'
+[2022.04.03-13.19.30:739][396]LogFileHelpers: Saving map 'MainMap' took 0.432
+[2022.04.03-13.19.30:753][396]AssetCheck: New page: Asset Save: MainMap
+[2022.04.03-13.19.30:753][396]LogContentValidation: Display: Validating World /Game/MainMap.MainMap
+[2022.04.03-13.19.33:378][681]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.04.03-13.19.34:714][681]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.03-13.19.35:478][681]LogCascade: Quitting Cascade. FXSystem=0x0000026FAD2392A0
+[2022.04.03-13.19.35:494][681]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2022.04.03-13.19.35:494][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.03-13.19.35:505][681]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ParticleEffects/PS_Lightning1.PS_Lightning1
+[2022.04.03-13.19.36:431][681]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.04.03-13.19.36:449][681]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.04.03-13.19.36:463][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.04.03-13.19.38:234][852]LogContentBrowser: Deferred new asset file creation: NewParticleSystem
+[2022.04.03-13.19.38:261][852]LogContentBrowser: Creating deferred item: NewParticleSystem
+[2022.04.03-13.19.42:708][382]LogContentBrowser: Attempting asset rename: NewParticleSystem -> PS_Lightning2
+[2022.04.03-13.19.42:709][382]LogContentBrowser: End creating deferred item NewParticleSystem
+[2022.04.03-13.19.44:139][542]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/ParticleEffects/PS_Lightning2.PS_Lightning2
+[2022.04.03-13.20.23:005][544]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/PS_Lightning2CCC3328346B380B9FFC778A19D2A9805.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/ParticleEffects/PS_Lightning2.uasset'
+[2022.04.03-13.20.23:015][544]AssetCheck: New page: Asset Save: PS_Lightning2
+[2022.04.03-13.20.23:015][544]LogContentValidation: Display: Validating ParticleSystem /Game/ParticleEffects/PS_Lightning2.PS_Lightning2
+[2022.04.03-13.22.01:120][772]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/PS_Lightning2CD54525C472DCAEEEDF4A491B11C560E.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/ParticleEffects/PS_Lightning2.uasset'
+[2022.04.03-13.22.01:131][772]AssetCheck: New page: Asset Save: PS_Lightning2
+[2022.04.03-13.22.01:131][772]LogContentValidation: Display: Validating ParticleSystem /Game/ParticleEffects/PS_Lightning2.PS_Lightning2
+[2022.04.03-13.22.46:061][ 27]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/PS_Lightning25EE11A2D427660A4D535E8A9A325A71E.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/ParticleEffects/PS_Lightning2.uasset'
+[2022.04.03-13.22.46:071][ 27]AssetCheck: New page: Asset Save: PS_Lightning2
+[2022.04.03-13.22.46:071][ 27]LogContentValidation: Display: Validating ParticleSystem /Game/ParticleEffects/PS_Lightning2.PS_Lightning2
+[2022.04.03-13.23.45:210][705]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/PS_Lightning29240DDC04A91C0C5D2158C87B94F9698.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/ParticleEffects/PS_Lightning2.uasset'
+[2022.04.03-13.23.45:221][705]AssetCheck: New page: Asset Save: PS_Lightning2
+[2022.04.03-13.23.45:221][705]LogContentValidation: Display: Validating ParticleSystem /Game/ParticleEffects/PS_Lightning2.PS_Lightning2
+[2022.04.03-13.23.46:189][795]LogCascade: Quitting Cascade. FXSystem=0x0000027082C95000
+[2022.04.03-13.23.46:222][795]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2022.04.03-13.23.46:222][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.03-13.25.01:662][559]Cmd: DELETE
+[2022.04.03-13.25.01:663][559]Cmd: ACTOR DELETE
+[2022.04.03-13.25.01:668][559]LogEditorActor: Deleted Actor: Emitter
+[2022.04.03-13.25.01:689][559]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.04.03-13.25.01:696][559]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2022.04.03-13.25.54:066][482]BlueprintLog: New page: Compile MainMap
+[2022.04.03-13.25.54:106][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.04.03-13.26.17:063][755]BlueprintLog: New page: Compile MainMap
+[2022.04.03-13.26.17:105][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.04.03-13.26.17:503][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.03-13.26.17:521][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.04.03-13.26.17:932][787]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/MainMapBC87722043F931F736755AA1C06982FD.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/MainMap.umap'
+[2022.04.03-13.26.17:939][787]LogFileHelpers: Saving map 'MainMap' took 0.435
+[2022.04.03-13.26.17:949][787]AssetCheck: New page: Asset Save: MainMap
+[2022.04.03-13.26.17:950][787]LogContentValidation: Display: Validating World /Game/MainMap.MainMap
+[2022.04.03-13.26.19:595][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.03-13.26.19:611][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.04.03-13.26.20:019][964]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/MainMapF51A1DBB4C761E5C772405A768499052.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/MainMap.umap'
+[2022.04.03-13.26.20:038][964]AssetCheck: New page: Asset Save: MainMap
+[2022.04.03-13.26.20:038][964]LogContentValidation: Display: Validating World /Game/MainMap.MainMap
+[2022.04.03-13.26.21:079][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.04.03-13.26.22:427][ 79]LogSlate: Window 'Save Content' being destroyed
+[2022.04.03-13.26.22:450][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/lightning" FILE="../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/Sounds/lightning.uasset" SILENT=true
+[2022.04.03-13.26.22:451][ 79]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/lightning43F5FA4644358D3B4F1785857CCC76B0.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/Sounds/lightning.uasset'
+[2022.04.03-13.26.22:453][ 79]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/M_Landscape_InstEAD631604978DA27511CA6893BAF07D1.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/Materials/M_Landscape_Inst.uasset'
+[2022.04.03-13.26.22:456][ 79]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/MI_GroundWinter19E0C8F14E135715B7A7CA85A730ADA1.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/PN_interactiveSpruceForest/ExampleContent/Winter/MI_GroundWinter.uasset'
+[2022.04.03-13.26.22:456][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/rain" FILE="../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/Sounds/rain.uasset" SILENT=true
+[2022.04.03-13.26.22:460][ 79]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/rain8A69A2CF42844548CD35FF91AAA4FAB9.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/Sounds/rain.uasset'
+[2022.04.03-13.26.22:491][ 79]LogSavePackage: Moving '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Saved/spruce_full_01_low_trunk27C8127045F5308750171C9D19D29149.tmp' to '../../../../../../Dissertation - Game/Dissertation-Dynamic-Weather-System/Dissertation/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_01_low_trunk.uasset'
+[2022.04.03-13.26.22:500][ 79]LogSlate: Window 'MainMap' being destroyed
+[2022.04.03-13.26.22:552][ 79]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2022.04.03-13.26.22:552][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.03-13.26.22:598][ 79]LogSlate: Window 'Dissertation - Unreal Editor' being destroyed
+[2022.04.03-13.26.22:749][ 79]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.03-13.26.22:749][ 79]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_Landscape_Inst.M_Landscape_Inst
+[2022.04.03-13.26.22:749][ 79]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_01_low_trunk.spruce_full_01_low_trunk
+[2022.04.03-13.26.22:749][ 79]LogContentValidation: Display: Validating SoundWave /Game/Sounds/rain.rain
+[2022.04.03-13.26.22:749][ 79]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/PN_interactiveSpruceForest/ExampleContent/Winter/MI_GroundWinter.MI_GroundWinter
+[2022.04.03-13.26.22:749][ 79]LogContentValidation: Display: Validating SoundWave /Game/Sounds/lightning.lightning
+[2022.04.03-13.26.22:751][ 80]Cmd: QUIT_EDITOR
+[2022.04.03-13.26.22:751][ 80]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.04.03-13.26.22:753][ 80]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.04.03-13.26.23:613][ 80]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.04.03-13.26.23:613][ 80]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.04.03-13.26.23:613][ 80]LogAudio: Display: Audio Device unregistered from world 'MainMap'.
+[2022.04.03-13.26.23:614][ 80]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.03-13.26.23:614][ 80]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.03-13.26.23:623][ 80]LogAudio: Display: Audio Device Manager Shutdown
+[2022.04.03-13.26.23:624][ 80]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.03-13.26.23:628][ 80]LogExit: Preparing to exit.
+[2022.04.03-13.26.24:214][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2022.04.03-13.26.24:425][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:425][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:425][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:425][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:425][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:425][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:425][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:425][ 80]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.03-13.26.24:427][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:427][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:427][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:427][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:427][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:427][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:427][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:427][ 80]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.03-13.26.24:427][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:427][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:427][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:427][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:427][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:427][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:427][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:427][ 80]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.03-13.26.24:428][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:428][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:428][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:428][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:428][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:428][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:428][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:428][ 80]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.03-13.26.24:429][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:429][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:429][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:429][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:429][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:429][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:429][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:429][ 80]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.03-13.26.24:429][ 80]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.03-13.26.24:430][ 80]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2022.04.03-13.26.24:430][ 80]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.04.03-13.26.24:431][ 80]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.04.03-13.26.24:431][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:431][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:431][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:431][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:431][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:431][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:431][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:431][ 80]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.03-13.26.24:432][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:432][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:432][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:432][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:432][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:432][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:432][ 80]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.03-13.26.24:432][ 80]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.03-13.26.24:439][ 80]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.04.03-13.26.24:488][ 80]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.04.03-13.26.24:504][ 80]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.03-13.26.24:511][ 80]LogExit: Editor shut down
+[2022.04.03-13.26.24:512][ 80]LogExit: Transaction tracking system shut down
+[2022.04.03-13.26.25:017][ 80]LogExit: Object subsystem successfully closed.
+[2022.04.03-13.26.25:036][ 80]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.03-13.26.25:036][ 80]LogShaderCompilers: Display: Total job queries 16496, among them cache hits 11193 (67.85%)
+[2022.04.03-13.26.25:036][ 80]LogShaderCompilers: Display: Tracking 5185 distinct input hashes that result in 2252 distinct outputs (43.43%)
+[2022.04.03-13.26.25:036][ 80]LogShaderCompilers: Display: RAM used: 27.55 MB (0.03 GB) of 1638.40 MB (1.60 GB) budget. Usage: 1.68%
+[2022.04.03-13.26.25:036][ 80]LogShaderCompilers: Display: ================================================
+[2022.04.03-13.26.25:052][ 80]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.04.03-13.26.25:094][ 80]LogModuleManager: Shutting down and abandoning module DistCurveEditor (906)
+[2022.04.03-13.26.25:094][ 80]LogModuleManager: Shutting down and abandoning module Cascade (904)
+[2022.04.03-13.26.25:094][ 80]LogModuleManager: Shutting down and abandoning module TextureEditor (902)
+[2022.04.03-13.26.25:094][ 80]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (900)
+[2022.04.03-13.26.25:094][ 80]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (898)
+[2022.04.03-13.26.25:094][ 80]LogModuleManager: Shutting down and abandoning module BlueprintGraph (896)
+[2022.04.03-13.26.25:094][ 80]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (894)
+[2022.04.03-13.26.25:094][ 80]LogModuleManager: Shutting down and abandoning module Voice (892)
+[2022.04.03-13.26.25:094][ 80]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (890)
+[2022.04.03-13.26.25:094][ 80]LogModuleManager: Shutting down and abandoning module SceneOutliner (888)
+[2022.04.03-13.26.25:094][ 80]LogModuleManager: Shutting down and abandoning module AddContentDialog (886)
+[2022.04.03-13.26.25:095][ 80]LogModuleManager: Shutting down and abandoning module WidgetCarousel (885)
+[2022.04.03-13.26.25:095][ 80]LogModuleManager: Shutting down and abandoning module EditorWidgets (882)
+[2022.04.03-13.26.25:095][ 80]LogModuleManager: Shutting down and abandoning module StatsViewer (880)
+[2022.04.03-13.26.25:096][ 80]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (878)
+[2022.04.03-13.26.25:096][ 80]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (876)
+[2022.04.03-13.26.25:096][ 80]LogModuleManager: Shutting down and abandoning module AutomationWorker (874)
+[2022.04.03-13.26.25:096][ 80]LogModuleManager: Shutting down and abandoning module SteamVREditor (872)
+[2022.04.03-13.26.25:096][ 80]LogModuleManager: Shutting down and abandoning module OculusMR (870)
+[2022.04.03-13.26.25:096][ 80]LogModuleManager: Shutting down and abandoning module TextureAlignMode (868)
+[2022.04.03-13.26.25:096][ 80]LogModuleManager: Shutting down and abandoning module BspMode (866)
+[2022.04.03-13.26.25:096][ 80]LogModuleManager: Shutting down and abandoning module GeometryMode (864)
+[2022.04.03-13.26.25:096][ 80]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (862)
+[2022.04.03-13.26.25:097][ 80]LogModuleManager: Shutting down and abandoning module TakeRecorder (861)
+[2022.04.03-13.26.25:098][ 80]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (858)
+[2022.04.03-13.26.25:098][ 80]LogModuleManager: Shutting down and abandoning module TakesCore (856)
+[2022.04.03-13.26.25:098][ 80]LogModuleManager: Shutting down and abandoning module OpenXRInput (854)
+[2022.04.03-13.26.25:098][ 80]LogModuleManager: Shutting down and abandoning module GooglePADEditor (852)
+[2022.04.03-13.26.25:098][ 80]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (850)
+[2022.04.03-13.26.25:098][ 80]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (848)
+[2022.04.03-13.26.25:098][ 80]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (846)
+[2022.04.03-13.26.25:098][ 80]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (844)
+[2022.04.03-13.26.25:099][ 80]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (842)
+[2022.04.03-13.26.25:099][ 80]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (840)
+[2022.04.03-13.26.25:099][ 80]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (838)
+[2022.04.03-13.26.25:099][ 80]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (836)
+[2022.04.03-13.26.25:099][ 80]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (834)
+[2022.04.03-13.26.25:099][ 80]LogModuleManager: Shutting down and abandoning module WebMMedia (832)
+[2022.04.03-13.26.25:099][ 80]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (830)
+[2022.04.03-13.26.25:099][ 80]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (828)
+[2022.04.03-13.26.25:099][ 80]LogModuleManager: Shutting down and abandoning module SequenceRecorder (827)
+[2022.04.03-13.26.25:099][ 80]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (824)
+[2022.04.03-13.26.25:099][ 80]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (822)
+[2022.04.03-13.26.25:099][ 80]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (820)
+[2022.04.03-13.26.25:099][ 80]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (818)
+[2022.04.03-13.26.25:099][ 80]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (816)
+[2022.04.03-13.26.25:099][ 80]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (814)
+[2022.04.03-13.26.25:099][ 80]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (812)
+[2022.04.03-13.26.25:099][ 80]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (810)
+[2022.04.03-13.26.25:099][ 80]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (808)
+[2022.04.03-13.26.25:099][ 80]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (806)
+[2022.04.03-13.26.25:099][ 80]LogModuleManager: Shutting down and abandoning module WaterEditor (804)
+[2022.04.03-13.26.25:099][ 80]LogModuleManager: Shutting down and abandoning module PlanarCut (802)
+[2022.04.03-13.26.25:099][ 80]LogModuleManager: Shutting down and abandoning module CharacterAI (800)
+[2022.04.03-13.26.25:099][ 80]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (798)
+[2022.04.03-13.26.25:100][ 80]LogModuleManager: Shutting down and abandoning module SmartSnapping (796)
+[2022.04.03-13.26.25:100][ 80]LogModuleManager: Shutting down and abandoning module SessionServices (794)
+[2022.04.03-13.26.25:100][ 80]LogModuleManager: Shutting down and abandoning module MeshPaint (792)
+[2022.04.03-13.26.25:100][ 80]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (790)
+[2022.04.03-13.26.25:100][ 80]LogModuleManager: Shutting down and abandoning module FoliageEdit (788)
+[2022.04.03-13.26.25:100][ 80]LogModuleManager: Shutting down and abandoning module LandscapeEditor (786)
+[2022.04.03-13.26.25:100][ 80]LogModuleManager: Shutting down and abandoning module MeshPaintMode (784)
+[2022.04.03-13.26.25:100][ 80]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (782)
+[2022.04.03-13.26.25:100][ 80]LogModuleManager: Shutting down and abandoning module ActorPickerMode (780)
+[2022.04.03-13.26.25:100][ 80]LogModuleManager: Shutting down and abandoning module PlacementMode (778)
+[2022.04.03-13.26.25:100][ 80]LogModuleManager: Shutting down and abandoning module ViewportSnapping (776)
+[2022.04.03-13.26.25:100][ 80]LogModuleManager: Shutting down and abandoning module ViewportInteraction (774)
+[2022.04.03-13.26.25:100][ 80]LogModuleManager: Shutting down and abandoning module ClothPainter (772)
+[2022.04.03-13.26.25:100][ 80]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (771)
+[2022.04.03-13.26.25:101][ 80]LogModuleManager: Shutting down and abandoning module LogVisualizer (768)
+[2022.04.03-13.26.25:101][ 80]LogModuleManager: Shutting down and abandoning module IntroTutorials (766)
+[2022.04.03-13.26.25:101][ 80]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (765)
+[2022.04.03-13.26.25:101][ 80]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (762)
+[2022.04.03-13.26.25:101][ 80]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (760)
+[2022.04.03-13.26.25:101][ 80]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (758)
+[2022.04.03-13.26.25:101][ 80]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (757)
+[2022.04.03-13.26.26:314][ 80]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (754)
+[2022.04.03-13.26.26:314][ 80]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (752)
+[2022.04.03-13.26.26:314][ 80]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (750)
+[2022.04.03-13.26.26:314][ 80]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (748)
+[2022.04.03-13.26.26:314][ 80]LogModuleManager: Shutting down and abandoning module TraceInsights (746)
+[2022.04.03-13.26.26:315][ 80]MemoryProfiler: Shutdown
+[2022.04.03-13.26.26:315][ 80]NetworkingProfiler: Shutdown
+[2022.04.03-13.26.26:315][ 80]LoadingProfiler: Shutdown
+[2022.04.03-13.26.26:315][ 80]TimingProfiler: Shutdown
+[2022.04.03-13.26.26:316][ 80]LogModuleManager: Shutting down and abandoning module TraceServices (745)
+[2022.04.03-13.26.26:316][ 80]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (742)
+[2022.04.03-13.26.26:317][ 80]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (740)
+[2022.04.03-13.26.26:317][ 80]LogModuleManager: Shutting down and abandoning module InputBindingEditor (738)
+[2022.04.03-13.26.26:317][ 80]LogModuleManager: Shutting down and abandoning module MergeActors (736)
+[2022.04.03-13.26.26:317][ 80]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (734)
+[2022.04.03-13.26.26:317][ 80]LogModuleManager: Shutting down and abandoning module LocalizationService (733)
+[2022.04.03-13.26.26:317][ 80]LogModuleManager: Shutting down and abandoning module HardwareTargeting (730)
+[2022.04.03-13.26.26:317][ 80]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (728)
+[2022.04.03-13.26.26:317][ 80]LogModuleManager: Shutting down and abandoning module UndoHistory (726)
+[2022.04.03-13.26.26:317][ 80]LogModuleManager: Shutting down and abandoning module XmlParser (724)
+[2022.04.03-13.26.26:317][ 80]LogModuleManager: Shutting down and abandoning module Blutility (722)
+[2022.04.03-13.26.26:317][ 80]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (720)
+[2022.04.03-13.26.26:317][ 80]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (719)
+[2022.04.03-13.26.26:317][ 80]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (716)
+[2022.04.03-13.26.26:318][ 80]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (715)
+[2022.04.03-13.26.26:318][ 80]LogModuleManager: Shutting down and abandoning module SettingsEditor (712)
+[2022.04.03-13.26.26:318][ 80]LogModuleManager: Shutting down and abandoning module ProjectLauncher (710)
+[2022.04.03-13.26.26:318][ 80]LogModuleManager: Shutting down and abandoning module SessionFrontend (708)
+[2022.04.03-13.26.26:318][ 80]LogModuleManager: Shutting down and abandoning module ProfilerClient (706)
+[2022.04.03-13.26.26:318][ 80]LogModuleManager: Shutting down and abandoning module DeviceManager (704)
+[2022.04.03-13.26.26:318][ 80]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (703)
+[2022.04.03-13.26.26:349][ 80]LogModuleManager: Shutting down and abandoning module AutomationController (700)
+[2022.04.03-13.26.26:349][ 80]LogModuleManager: Shutting down and abandoning module AutomationWindow (698)
+[2022.04.03-13.26.26:349][ 80]LogModuleManager: Shutting down and abandoning module Layers (696)
+[2022.04.03-13.26.26:350][ 80]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (694)
+[2022.04.03-13.26.26:350][ 80]LogModuleManager: Shutting down and abandoning module DetailCustomizations (692)
+[2022.04.03-13.26.26:350][ 80]LogModuleManager: Shutting down and abandoning module PackagesDialog (690)
+[2022.04.03-13.26.26:350][ 80]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (688)
+[2022.04.03-13.26.26:350][ 80]LogModuleManager: Shutting down and abandoning module Persona (686)
+[2022.04.03-13.26.26:350][ 80]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (685)
+[2022.04.03-13.26.26:350][ 80]LogModuleManager: Shutting down and abandoning module AnimGraph (683)
+[2022.04.03-13.26.26:350][ 80]LogModuleManager: Shutting down and abandoning module Kismet (680)
+[2022.04.03-13.26.26:360][ 80]LogModuleManager: Shutting down and abandoning module KismetWidgets (679)
+[2022.04.03-13.26.26:360][ 80]LogModuleManager: Shutting down and abandoning module GraphEditor (676)
+[2022.04.03-13.26.26:360][ 80]LogModuleManager: Shutting down and abandoning module StructViewer (674)
+[2022.04.03-13.26.26:360][ 80]LogModuleManager: Shutting down and abandoning module ClassViewer (672)
+[2022.04.03-13.26.26:362][ 80]LogModuleManager: Shutting down and abandoning module Toolbox (670)
+[2022.04.03-13.26.26:362][ 80]LogModuleManager: Shutting down and abandoning module ModuleUI (668)
+[2022.04.03-13.26.26:363][ 80]LogModuleManager: Shutting down and abandoning module OutputLog (666)
+[2022.04.03-13.26.26:371][ 80]LogModuleManager: Shutting down and abandoning module GammaUI (664)
+[2022.04.03-13.26.26:371][ 80]LogModuleManager: Shutting down and abandoning module Documentation (662)
+[2022.04.03-13.26.26:371][ 80]LogModuleManager: Shutting down and abandoning module LiveCoding (660)
+[2022.04.03-13.26.26:372][ 80]LogModuleManager: Shutting down and abandoning module LevelSequence (658)
+[2022.04.03-13.26.26:372][ 80]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (656)
+[2022.04.03-13.26.26:372][ 80]LogModuleManager: Shutting down and abandoning module MovieScene (654)
+[2022.04.03-13.26.26:372][ 80]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (652)
+[2022.04.03-13.26.26:372][ 80]LogModuleManager: Shutting down and abandoning module LauncherPlatform (650)
+[2022.04.03-13.26.26:372][ 80]LogModuleManager: Shutting down and abandoning module AnalyticsET (648)
+[2022.04.03-13.26.26:372][ 80]LogModuleManager: Shutting down and abandoning module PortalServices (646)
+[2022.04.03-13.26.26:372][ 80]LogModuleManager: Shutting down and abandoning module PortalRpc (644)
+[2022.04.03-13.26.26:372][ 80]LogModuleManager: Shutting down and abandoning module MessagingRpc (642)
+[2022.04.03-13.26.26:372][ 80]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (640)
+[2022.04.03-13.26.26:372][ 80]LogModuleManager: Shutting down and abandoning module AudioMixerCore (639)
+[2022.04.03-13.26.26:372][ 80]LogModuleManager: Shutting down and abandoning module AIModule (636)
+[2022.04.03-13.26.26:372][ 80]LogModuleManager: Shutting down and abandoning module GameplayDebugger (635)
+[2022.04.03-13.26.26:372][ 80]LogModuleManager: Shutting down and abandoning module AITestSuite (633)
+[2022.04.03-13.26.26:372][ 80]LogModuleManager: Shutting down and abandoning module NavigationSystem (631)
+[2022.04.03-13.26.26:372][ 80]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (628)
+[2022.04.03-13.26.26:377][ 80]LogModuleManager: Shutting down and abandoning module ProfilerService (626)
+[2022.04.03-13.26.26:487][ 80]LogModuleManager: Shutting down and abandoning module TaskGraph (624)
+[2022.04.03-13.26.26:487][ 80]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (622)
+[2022.04.03-13.26.26:487][ 80]LogModuleManager: Shutting down and abandoning module MegascansPlugin (620)
+[2022.04.03-13.26.26:487][ 80]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (618)
+[2022.04.03-13.26.26:487][ 80]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (616)
+[2022.04.03-13.26.26:487][ 80]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (614)
+[2022.04.03-13.26.26:487][ 80]LogModuleManager: Shutting down and abandoning module CollectionManager (613)
+[2022.04.03-13.26.26:487][ 80]LogModuleManager: Shutting down and abandoning module OculusEditor (610)
+[2022.04.03-13.26.26:488][ 80]LogModuleManager: Shutting down and abandoning module OculusInput (608)
+[2022.04.03-13.26.26:488][ 80]LogModuleManager: Shutting down and abandoning module SQLiteSupport (606)
+[2022.04.03-13.26.26:488][ 80]LogModuleManager: Shutting down and abandoning module DatabaseSupport (604)
+[2022.04.03-13.26.26:488][ 80]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (602)
+[2022.04.03-13.26.26:488][ 80]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (600)
+[2022.04.03-13.26.26:488][ 80]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (598)
+[2022.04.03-13.26.26:488][ 80]LogModuleManager: Shutting down and abandoning module PluginBrowser (596)
+[2022.04.03-13.26.26:488][ 80]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (594)
+[2022.04.03-13.26.26:488][ 80]LogModuleManager: Shutting down and abandoning module CurveEditorTools (592)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (590)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module CryptoKeys (588)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (586)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module TakeSequencer (584)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module TakeMovieScene (582)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module ScreenshotTools (580)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module SynthesisEditor (578)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module Synthesis (576)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (574)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (572)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module OpenXREditor (570)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (568)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module GooglePAD (566)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module EditableMesh (564)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (562)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module CableComponent (560)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module AssetTags (558)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module AudioCapture (556)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (555)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (552)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (550)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module AppleImageUtils (548)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module AndroidPermission (546)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (544)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (542)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module TemplateSequence (540)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module MediaCompositing (538)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module ImgMedia (536)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (534)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (532)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (530)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (528)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (526)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (524)
+[2022.04.03-13.26.26:489][ 80]LogOpenImageDenoise: OIDN shutting down
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (522)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module MotoSynth (520)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module LandmassEditor (518)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module Landmass (516)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (514)
+[2022.04.03-13.26.26:489][ 80]LogModuleManager: Shutting down and abandoning module MeshConversion (512)
+[2022.04.03-13.26.26:490][ 80]LogModuleManager: Shutting down and abandoning module DynamicMesh (510)
+[2022.04.03-13.26.26:490][ 80]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (508)
+[2022.04.03-13.26.26:490][ 80]LogModuleManager: Shutting down and abandoning module GeometricObjects (506)
+[2022.04.03-13.26.26:490][ 80]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (504)
+[2022.04.03-13.26.26:490][ 80]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (502)
+[2022.04.03-13.26.26:490][ 80]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (501)
+[2022.04.03-13.26.26:490][ 80]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (498)
+[2022.04.03-13.26.26:490][ 80]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (496)
+[2022.04.03-13.26.26:490][ 80]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (494)
+[2022.04.03-13.26.26:490][ 80]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (492)
+[2022.04.03-13.26.26:490][ 80]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (490)
+[2022.04.03-13.26.26:490][ 80]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (488)
+[2022.04.03-13.26.26:491][ 80]LogModuleManager: Shutting down and abandoning module FractureEditor (486)
+[2022.04.03-13.26.26:491][ 80]LogModuleManager: Shutting down and abandoning module ChaosNiagara (484)
+[2022.04.03-13.26.26:491][ 80]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (483)
+[2022.04.03-13.26.26:491][ 80]LogModuleManager: Shutting down and abandoning module BackChannel (480)
+[2022.04.03-13.26.26:491][ 80]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (478)
+[2022.04.03-13.26.26:491][ 80]LogModuleManager: Shutting down and abandoning module AutomationUtils (476)
+[2022.04.03-13.26.26:491][ 80]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (474)
+[2022.04.03-13.26.26:491][ 80]LogModuleManager: Shutting down and abandoning module AlembicImporter (472)
+[2022.04.03-13.26.26:491][ 80]LogModuleManager: Shutting down and abandoning module AlembicLibrary (471)
+[2022.04.03-13.26.26:491][ 80]LogModuleManager: Shutting down and abandoning module GeometryCache (470)
+[2022.04.03-13.26.26:491][ 80]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (469)
+[2022.04.03-13.26.26:491][ 80]LogModuleManager: Shutting down and abandoning module PluginUtils (464)
+[2022.04.03-13.26.26:491][ 80]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (462)
+[2022.04.03-13.26.26:492][ 80]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (460)
+[2022.04.03-13.26.26:493][ 80]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (458)
+[2022.04.03-13.26.26:493][ 80]LogModuleManager: Shutting down and abandoning module UObjectPlugin (456)
+[2022.04.03-13.26.26:493][ 80]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (454)
+[2022.04.03-13.26.26:493][ 80]LogModuleManager: Shutting down and abandoning module GitSourceControl (452)
+[2022.04.03-13.26.26:493][ 80]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (450)
+[2022.04.03-13.26.26:493][ 80]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (448)
+[2022.04.03-13.26.26:493][ 80]LogModuleManager: Shutting down and abandoning module SourceControl (447)
+[2022.04.03-13.26.26:493][ 80]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (444)
+[2022.04.03-13.26.26:493][ 80]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (442)
+[2022.04.03-13.26.26:493][ 80]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (440)
+[2022.04.03-13.26.26:493][ 80]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (438)
+[2022.04.03-13.26.26:493][ 80]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (436)
+[2022.04.03-13.26.26:493][ 80]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (434)
+[2022.04.03-13.26.26:493][ 80]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (432)
+[2022.04.03-13.26.26:493][ 80]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (430)
+[2022.04.03-13.26.26:493][ 80]LogModuleManager: Shutting down and abandoning module LiveLink (428)
+[2022.04.03-13.26.26:620][ 80]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (426)
+[2022.04.03-13.26.26:620][ 80]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (424)
+[2022.04.03-13.26.26:620][ 80]LogModuleManager: Shutting down and abandoning module Paper2DEditor (422)
+[2022.04.03-13.26.26:620][ 80]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (420)
+[2022.04.03-13.26.26:621][ 80]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (418)
+[2022.04.03-13.26.26:621][ 80]LogModuleManager: Shutting down and abandoning module SQLiteCore (416)
+[2022.04.03-13.26.26:621][ 80]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (414)
+[2022.04.03-13.26.26:621][ 80]LogModuleManager: Shutting down and abandoning module DataValidation (412)
+[2022.04.03-13.26.26:621][ 80]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (410)
+[2022.04.03-13.26.26:621][ 80]LogModuleManager: Shutting down and abandoning module FacialAnimation (408)
+[2022.04.03-13.26.26:621][ 80]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (406)
+[2022.04.03-13.26.26:621][ 80]LogModuleManager: Shutting down and abandoning module LevelEditor (405)
+[2022.04.03-13.26.26:623][ 80]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (404)
+[2022.04.03-13.26.26:623][ 80]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (402)
+[2022.04.03-13.26.26:623][ 80]LogModuleManager: Shutting down and abandoning module MainFrame (400)
+[2022.04.03-13.26.26:623][ 80]LogModuleManager: Shutting down and abandoning module HotReload (399)
+[2022.04.03-13.26.26:624][ 80]LogModuleManager: Shutting down and abandoning module ToolMenus (395)
+[2022.04.03-13.26.26:624][ 80]LogModuleManager: Shutting down and abandoning module TreeMap (393)
+[2022.04.03-13.26.26:624][ 80]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (390)
+[2022.04.03-13.26.26:624][ 80]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (388)
+[2022.04.03-13.26.26:624][ 80]LogModuleManager: Shutting down and abandoning module SoundFields (386)
+[2022.04.03-13.26.26:624][ 80]LogModuleManager: Shutting down and abandoning module SignificanceManager (384)
+[2022.04.03-13.26.26:624][ 80]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (382)
+[2022.04.03-13.26.26:624][ 80]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (378)
+[2022.04.03-13.26.26:624][ 80]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (376)
+[2022.04.03-13.26.26:624][ 80]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (374)
+[2022.04.03-13.26.26:624][ 80]LogModuleManager: Shutting down and abandoning module ActorSequence (372)
+[2022.04.03-13.26.26:624][ 80]LogModuleManager: Shutting down and abandoning module UdpMessaging (370)
+[2022.04.03-13.26.26:724][ 80]LogModuleManager: Shutting down and abandoning module TcpMessaging (368)
+[2022.04.03-13.26.26:825][ 80]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (366)
+[2022.04.03-13.26.26:825][ 80]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (364)
+[2022.04.03-13.26.26:825][ 80]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (362)
+[2022.04.03-13.26.26:825][ 80]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (360)
+[2022.04.03-13.26.26:825][ 80]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (358)
+[2022.04.03-13.26.26:825][ 80]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (356)
+[2022.04.03-13.26.26:825][ 80]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.04.03-13.26.26:825][ 80]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (354)
+[2022.04.03-13.26.26:825][ 80]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (352)
+[2022.04.03-13.26.26:825][ 80]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (350)
+[2022.04.03-13.26.26:825][ 80]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (348)
+[2022.04.03-13.26.26:825][ 80]LogModuleManager: Shutting down and abandoning module MagicLeapController (346)
+[2022.04.03-13.26.26:825][ 80]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (344)
+[2022.04.03-13.26.26:825][ 80]LogModuleManager: Shutting down and abandoning module MagicLeapAR (342)
+[2022.04.03-13.26.26:825][ 80]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (340)
+[2022.04.03-13.26.26:825][ 80]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (338)
+[2022.04.03-13.26.26:825][ 80]LogModuleManager: Shutting down and abandoning module GameplayCameras (336)
+[2022.04.03-13.26.26:825][ 80]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (334)
+[2022.04.03-13.26.26:825][ 80]LogModuleManager: Shutting down and abandoning module Niagara (332)
+[2022.04.03-13.26.26:826][ 80]LogModuleManager: Shutting down and abandoning module SignalProcessing (331)
+[2022.04.03-13.26.26:826][ 80]LogModuleManager: Shutting down and abandoning module NiagaraEditor (329)
+[2022.04.03-13.26.26:826][ 80]LogModuleManager: Shutting down and abandoning module ContentBrowser (328)
+[2022.04.03-13.26.26:826][ 80]LogModuleManager: Shutting down and abandoning module ContentBrowserData (327)
+[2022.04.03-13.26.26:826][ 80]LogModuleManager: Shutting down and abandoning module NiagaraCore (322)
+[2022.04.03-13.26.26:826][ 80]LogModuleManager: Shutting down and abandoning module AnimationSharing (320)
+[2022.04.03-13.26.26:826][ 80]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (318)
+[2022.04.03-13.26.26:826][ 80]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (316)
+[2022.04.03-13.26.26:826][ 80]LogModuleManager: Shutting down and abandoning module Paper2D (314)
+[2022.04.03-13.26.26:826][ 80]LogModuleManager: Shutting down and abandoning module BlueprintMaterialTextureNodes (312)
+[2022.04.03-13.26.26:826][ 80]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (310)
+[2022.04.03-13.26.26:826][ 80]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (308)
+[2022.04.03-13.26.26:826][ 80]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (306)
+[2022.04.03-13.26.26:826][ 80]LogModuleManager: Shutting down and abandoning module PacketHandler (304)
+[2022.04.03-13.26.26:826][ 80]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (302)
+[2022.04.03-13.26.26:826][ 80]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (300)
+[2022.04.03-13.26.26:827][ 80]LogModuleManager: Shutting down and abandoning module MediaAssets (298)
+[2022.04.03-13.26.26:827][ 80]LogModuleManager: Shutting down and abandoning module Overlay (296)
+[2022.04.03-13.26.26:827][ 80]LogModuleManager: Shutting down and abandoning module OverlayEditor (295)
+[2022.04.03-13.26.26:827][ 80]LogModuleManager: Shutting down and abandoning module VREditor (292)
+[2022.04.03-13.26.26:827][ 80]LogModuleManager: Shutting down and abandoning module StringTableEditor (290)
+[2022.04.03-13.26.26:828][ 80]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (288)
+[2022.04.03-13.26.26:828][ 80]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (286)
+[2022.04.03-13.26.26:828][ 80]LogModuleManager: Shutting down and abandoning module FunctionalTesting (284)
+[2022.04.03-13.26.26:828][ 80]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (282)
+[2022.04.03-13.26.26:828][ 80]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (281)
+[2022.04.03-13.26.26:828][ 80]LogModuleManager: Shutting down and abandoning module UMG (278)
+[2022.04.03-13.26.26:828][ 80]LogModuleManager: Shutting down and abandoning module UMGEditor (277)
+[2022.04.03-13.26.26:828][ 80]LogModuleManager: Shutting down and abandoning module MessageLog (275)
+[2022.04.03-13.26.26:828][ 80]LogModuleManager: Shutting down and abandoning module SlateReflector (270)
+[2022.04.03-13.26.26:829][ 80]LogModuleManager: Shutting down and abandoning module Slate (268)
+[2022.04.03-13.26.26:829][ 80]LogModuleManager: Shutting down and abandoning module SlateCore (266)
+[2022.04.03-13.26.26:830][ 80]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (264)
+[2022.04.03-13.26.26:830][ 80]LogModuleManager: Shutting down and abandoning module UnrealEd (262)
+[2022.04.03-13.26.26:830][ 80]LogModuleManager: Shutting down and abandoning module MRMesh (260)
+[2022.04.03-13.26.26:830][ 80]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (258)
+[2022.04.03-13.26.26:830][ 80]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (256)
+[2022.04.03-13.26.26:830][ 80]LogModuleManager: Shutting down and abandoning module XAudio2 (254)
+[2022.04.03-13.26.26:830][ 80]LogModuleManager: Shutting down and abandoning module Networking (252)
+[2022.04.03-13.26.26:830][ 80]LogModuleManager: Shutting down and abandoning module Core (250)
+[2022.04.03-13.26.26:830][ 80]LogModuleManager: Shutting down and abandoning module MaterialEditor (248)
+[2022.04.03-13.26.26:830][ 80]LogModuleManager: Shutting down and abandoning module MovieSceneTools (246)
+[2022.04.03-13.26.26:830][ 80]LogModuleManager: Shutting down and abandoning module CurveEditor (245)
+[2022.04.03-13.26.26:830][ 80]LogModuleManager: Shutting down and abandoning module Sequencer (243)
+[2022.04.03-13.26.26:830][ 80]LogModuleManager: Shutting down and abandoning module EditorStyle (242)
+[2022.04.03-13.26.26:832][ 80]LogModuleManager: Shutting down and abandoning module KismetCompiler (238)
+[2022.04.03-13.26.26:832][ 80]LogModuleManager: Shutting down and abandoning module MeshBuilder (236)
+[2022.04.03-13.26.26:832][ 80]LogModuleManager: Shutting down and abandoning module MeshUtilities (234)
+[2022.04.03-13.26.26:832][ 80]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (233)
+[2022.04.03-13.26.26:832][ 80]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (232)
+[2022.04.03-13.26.26:832][ 80]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (231)
+[2022.04.03-13.26.26:832][ 80]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (229)
+[2022.04.03-13.26.26:833][ 80]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (227)
+[2022.04.03-13.26.26:833][ 80]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (225)
+[2022.04.03-13.26.26:833][ 80]LogModuleManager: Shutting down and abandoning module MaterialBaking (221)
+[2022.04.03-13.26.26:833][ 80]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (216)
+[2022.04.03-13.26.26:833][ 80]LogModuleManager: Shutting down and abandoning module DerivedDataCache (214)
+[2022.04.03-13.26.26:833][ 80]LogModuleManager: Shutting down and abandoning module TargetPlatform (212)
+[2022.04.03-13.26.26:833][ 80]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (211)
+[2022.04.03-13.26.26:833][ 80]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (209)
+[2022.04.03-13.26.26:834][ 80]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (207)
+[2022.04.03-13.26.26:834][ 80]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (205)
+[2022.04.03-13.26.26:834][ 80]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (203)
+[2022.04.03-13.26.26:834][ 80]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (201)
+[2022.04.03-13.26.26:834][ 80]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (199)
+[2022.04.03-13.26.26:834][ 80]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (197)
+[2022.04.03-13.26.26:834][ 80]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (195)
+[2022.04.03-13.26.26:834][ 80]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (193)
+[2022.04.03-13.26.26:834][ 80]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (191)
+[2022.04.03-13.26.26:834][ 80]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (189)
+[2022.04.03-13.26.26:834][ 80]LogModuleManager: Shutting down and abandoning module ImageWrapper (188)
+[2022.04.03-13.26.26:834][ 80]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (185)
+[2022.04.03-13.26.26:834][ 80]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (183)
+[2022.04.03-13.26.26:834][ 80]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (181)
+[2022.04.03-13.26.26:834][ 80]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (179)
+[2022.04.03-13.26.26:834][ 80]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (177)
+[2022.04.03-13.26.26:834][ 80]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (175)
+[2022.04.03-13.26.26:834][ 80]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (173)
+[2022.04.03-13.26.26:834][ 80]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (171)
+[2022.04.03-13.26.26:839][ 80]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (169)
+[2022.04.03-13.26.26:839][ 80]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (167)
+[2022.04.03-13.26.26:839][ 80]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (165)
+[2022.04.03-13.26.26:839][ 80]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (163)
+[2022.04.03-13.26.26:839][ 80]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (161)
+[2022.04.03-13.26.26:847][ 80]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (159)
+[2022.04.03-13.26.26:847][ 80]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (157)
+[2022.04.03-13.26.26:847][ 80]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (155)
+[2022.04.03-13.26.26:847][ 80]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (153)
+[2022.04.03-13.26.26:847][ 80]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (151)
+[2022.04.03-13.26.26:847][ 80]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (149)
+[2022.04.03-13.26.26:847][ 80]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (147)
+[2022.04.03-13.26.26:847][ 80]LogModuleManager: Shutting down and abandoning module Messaging (145)
+[2022.04.03-13.26.26:847][ 80]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (143)
+[2022.04.03-13.26.26:850][ 80]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (141)
+[2022.04.03-13.26.26:865][ 80]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (139)
+[2022.04.03-13.26.26:865][ 80]LogModuleManager: Shutting down and abandoning module D3D11RHI (136)
+[2022.04.03-13.26.26:865][ 80]LogModuleManager: Shutting down and abandoning module InputCore (134)
+[2022.04.03-13.26.26:865][ 80]LogModuleManager: Shutting down and abandoning module Settings (132)
+[2022.04.03-13.26.26:865][ 80]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (130)
+[2022.04.03-13.26.26:866][ 80]LogModuleManager: Shutting down and abandoning module PhysXCooking (128)
+[2022.04.03-13.26.26:866][ 80]LogModuleManager: Shutting down and abandoning module Chaos (126)
+[2022.04.03-13.26.26:866][ 80]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (124)
+[2022.04.03-13.26.26:866][ 80]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (123)
+[2022.04.03-13.26.26:866][ 80]LogModuleManager: Shutting down and abandoning module AVEncoder (122)
+[2022.04.03-13.26.26:866][ 80]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (118)
+[2022.04.03-13.26.26:866][ 80]LogModuleManager: Shutting down and abandoning module SteamVRInput (116)
+[2022.04.03-13.26.26:866][ 80]LogModuleManager: Shutting down and abandoning module SteamVR (114)
+[2022.04.03-13.26.26:866][ 80]LogHMD: Freeing OpenVRDLLHandle.
+[2022.04.03-13.26.26:866][ 80]LogModuleManager: Shutting down and abandoning module OculusHMD (112)
+[2022.04.03-13.26.26:866][ 80]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (110)
+[2022.04.03-13.26.26:866][ 80]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2022.04.03-13.26.26:867][ 80]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.04.03-13.26.26:867][ 80]LogModuleManager: Shutting down and abandoning module OpenXRAR (106)
+[2022.04.03-13.26.26:867][ 80]LogModuleManager: Shutting down and abandoning module AugmentedReality (105)
+[2022.04.03-13.26.26:867][ 80]LogModuleManager: Shutting down and abandoning module OpenXRHMD (102)
+[2022.04.03-13.26.26:867][ 80]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (100)
+[2022.04.03-13.26.26:867][ 80]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2022.04.03-13.26.26:867][ 80]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2022.04.03-13.26.26:867][ 80]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2022.04.03-13.26.26:867][ 80]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (90)
+[2022.04.03-13.26.26:868][ 80]LogModuleManager: Shutting down and abandoning module XMPP (85)
+[2022.04.03-13.26.26:869][ 80]LogModuleManager: Shutting down and abandoning module WebSockets (84)
+[2022.04.03-13.26.26:891][ 80]LogModuleManager: Shutting down and abandoning module HTTP (81)
+[2022.04.03-13.26.26:891][ 80]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.04.03-13.26.26:891][ 80]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB86F3AF2-4569-9F0D-DEC3-219EB68A6137%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=81583ad1415b594da9fb77abe75858dc%7C66574ec8d2fd4294bcb79c034d074803%7C01bb45d7-bd41-4d3c-9bb1-d17c8a1e4fd2&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.04.03-13.26.26:891][ 80]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.04.03-13.26.26:916][ 80]LogModuleManager: Shutting down and abandoning module SSL (80)
+[2022.04.03-13.26.26:917][ 80]LogModuleManager: Shutting down and abandoning module WmfMedia (76)
+[2022.04.03-13.26.26:919][ 80]LogModuleManager: Shutting down and abandoning module Media (75)
+[2022.04.03-13.26.26:919][ 80]LogModuleManager: Shutting down and abandoning module MediaInfo (74)
+[2022.04.03-13.26.26:919][ 80]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (70)
+[2022.04.03-13.26.26:919][ 80]LogModuleManager: Shutting down and abandoning module MLSDK (68)
+[2022.04.03-13.26.26:919][ 80]LogModuleManager: Shutting down and abandoning module MagicLeap (66)
+[2022.04.03-13.26.26:919][ 80]LogModuleManager: Shutting down and abandoning module Water (64)
+[2022.04.03-13.26.26:919][ 80]LogModuleManager: Shutting down and abandoning module VariantManagerContent (62)
+[2022.04.03-13.26.26:919][ 80]LogModuleManager: Shutting down and abandoning module DatasmithContent (60)
+[2022.04.03-13.26.26:919][ 80]LogModuleManager: Shutting down and abandoning module ChaosCloth (58)
+[2022.04.03-13.26.26:919][ 80]LogModuleManager: Shutting down and abandoning module PixWinPlugin (56)
+[2022.04.03-13.26.26:920][ 80]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (54)
+[2022.04.03-13.26.26:920][ 80]LogModuleManager: Shutting down and abandoning module NiagaraShader (52)
+[2022.04.03-13.26.26:920][ 80]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.04.03-13.26.26:920][ 80]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.04.03-13.26.26:920][ 80]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2022.04.03-13.26.26:920][ 80]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.04.03-13.26.26:920][ 80]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.04.03-13.26.26:920][ 80]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.04.03-13.26.26:920][ 80]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.04.03-13.26.26:920][ 80]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.04.03-13.26.26:920][ 80]LogXGEController: Cleaning working directory: C:/Users/Henri/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.04.03-13.26.26:920][ 80]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.04.03-13.26.26:921][ 80]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.04.03-13.26.26:921][ 80]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.04.03-13.26.26:921][ 80]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.04.03-13.26.26:921][ 80]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.04.03-13.26.26:921][ 80]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.04.03-13.26.26:921][ 80]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.04.03-13.26.26:925][ 80]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.04.03-13.26.26:925][ 80]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.04.03-13.26.26:925][ 80]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.04.03-13.26.26:925][ 80]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.04.03-13.26.26:925][ 80]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.04.03-13.26.26:925][ 80]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.04.03-13.26.26:925][ 80]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.04.03-13.26.26:925][ 80]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.04.03-13.26.26:925][ 80]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.04.03-13.26.26:925][ 80]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.04.03-13.26.26:925][ 80]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.04.03-13.26.26:950][ 80]LogD3D11RHI: Shutdown
+[2022.04.03-13.26.26:950][ 80]LogD3D11RHI: CleanupD3DDevice
+[2022.04.03-13.26.26:958][ 80]LogExit: Exiting.
+[2022.04.03-13.26.26:971][ 80]Log file closed, 04/03/22 14:26:26
