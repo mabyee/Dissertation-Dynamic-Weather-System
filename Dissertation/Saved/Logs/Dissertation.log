@@ -894,3 +894,1079 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.04.20-15.32.14:113][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2022.04.20-15.32.14:135][  1]LogAssetRegistry: Asset discovery search completed in 4.7097 seconds
 [2022.04.20-15.32.14:147][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000033 seconds (updated 0 objects)
+[2022.04.20-15.32.33:209][117]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.20-15.32.33:213][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.20-15.32.33:214][117]PIE: New page: PIE session: Map_MainMenu (20 Apr 2022, 19:32:33)
+[2022.04.20-15.32.33:215][117]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.04.20-15.32.33:216][117]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.04.20-15.32.33:216][117]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_MainMenu
+[2022.04.20-15.32.33:217][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000843s)
+[2022.04.20-15.32.33:218][117]LogAIModule: Creating AISystem for world Map_MainMenu
+[2022.04.20-15.32.33:218][117]LogPlayLevel: PIE: World Init took: (0.001096s)
+[2022.04.20-15.32.33:218][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_MainMenu.Map_MainMenu to /Game/Maps/UEDPIE_0_Map_MainMenu.Map_MainMenu (0.002032s)
+[2022.04.20-15.32.33:227][117]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.04.20-15.32.33:230][117]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.04.20-15.32.33:231][117]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.20-15.32.33:231][117]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.20-15.32.33:231][117]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.20-15.32.33:231][117]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.20-15.32.33:231][117]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.20-15.32.33:231][117]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.20-15.32.33:231][117]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.20-15.32.33:231][117]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.20-15.32.33:231][117]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.20-15.32.33:231][117]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.20-15.32.33:231][117]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.20-15.32.33:231][117]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.20-15.32.33:234][117]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.20-15.32.33:234][117]LogAudioMixer: Display: 1: FrontRight
+[2022.04.20-15.32.33:244][117]LogAudioMixer: Display: Using Audio Device Speakers (2- High Definition Audio Device)
+[2022.04.20-15.32.33:244][117]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.20-15.32.33:244][117]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.20-15.32.33:244][117]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.20-15.32.33:245][117]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.20-15.32.33:245][117]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.20-15.32.33:245][117]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.20-15.32.33:246][117]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.20-15.32.33:246][117]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.20-15.32.33:246][117]LogInit: FAudioDevice initialized.
+[2022.04.20-15.32.33:246][117]LogAudio: Display: Audio Device (ID: 2) registered with world 'Map_MainMenu'.
+[2022.04.20-15.32.33:439][117]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.20-15.32.33:441][117]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_MainMenu.Map_MainMenu up for play (max tick rate 0) at 2022.04.20-17.32.33
+[2022.04.20-15.32.33:441][117]LogWorld: Bringing up level for play took: 0.000341
+[2022.04.20-15.32.33:441][117]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2022.04.20-15.32.33:444][117]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.04.20-15.32.33:447][117]PIE: Server logged in
+[2022.04.20-15.32.33:448][117]PIE: Play in editor total start time 0.235 seconds.
+[2022.04.20-15.32.35:741][355]LogNet: Browse: /Game/Maps/MainMap
+[2022.04.20-15.32.35:741][355]LogLoad: LoadMap: /Game/Maps/MainMap
+[2022.04.20-15.32.35:741][355]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_MainMenu
+[2022.04.20-15.32.35:742][355]LogWorld: UWorld::CleanupWorld for Map_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-15.32.35:742][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-15.32.35:783][355]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.20-15.32.35:785][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.04.20-15.32.36:939][355]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMap'.
+[2022.04.20-15.32.36:940][355]LogAIModule: Creating AISystem for world MainMap
+[2022.04.20-15.32.36:940][355]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.20-15.32.36:952][355]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.04.20-17.32.36
+[2022.04.20-15.32.36:959][355]LogWorld: Bringing up level for play took: 0.017314
+[2022.04.20-15.32.36:961][355]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.36:961][355]LogLoad: Took 1.220175 seconds to LoadMap(/Game/Maps/MainMap)
+[2022.04.20-15.32.37:280][356]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.37:352][357]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.37:508][360]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.37:725][366]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.37:945][374]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.38:147][382]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.38:348][390]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.38:560][399]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.38:762][407]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.38:985][416]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.39:191][424]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.39:395][432]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.39:603][440]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.39:807][448]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.40:016][456]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.40:231][464]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.40:442][472]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.40:658][481]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.40:880][490]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.41:096][499]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.41:309][508]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.41:514][516]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.41:727][524]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.41:932][532]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.42:139][540]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.42:344][548]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.42:545][556]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.42:745][564]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.42:949][572]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.43:151][580]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.43:355][588]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.43:565][597]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.43:773][606]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.43:988][615]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.44:205][624]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.44:414][633]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.44:629][642]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.44:843][651]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.45:055][660]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.45:264][669]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.45:473][678]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.45:679][687]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.45:890][696]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.46:104][705]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.46:315][714]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.46:524][723]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.46:728][731]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.46:945][740]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.47:153][749]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.47:358][758]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.47:565][767]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.47:786][776]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.48:003][785]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.48:213][794]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.48:423][803]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.48:647][812]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.48:849][820]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.49:071][829]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.49:280][838]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.49:486][847]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.49:701][856]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.49:925][865]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.50:146][874]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.50:360][883]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.50:577][892]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.50:787][901]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.50:993][910]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.51:206][919]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.51:428][928]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.51:646][937]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.51:852][946]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.52:061][955]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.52:277][964]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.52:501][973]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.52:717][982]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.52:934][991]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.53:153][  0]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.53:367][  9]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.53:583][ 18]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.53:801][ 27]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.54:016][ 36]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.54:238][ 45]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.54:454][ 54]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.54:672][ 63]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.54:889][ 72]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.55:111][ 81]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.55:330][ 90]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.55:550][ 99]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.55:769][108]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.55:985][117]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.56:204][126]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.56:423][135]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.56:639][144]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.56:857][153]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.57:064][162]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.57:271][171]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.57:485][180]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.57:706][189]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.57:925][198]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.58:138][207]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.58:351][216]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.58:558][225]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.58:765][234]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.58:985][244]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.59:206][254]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.59:429][264]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.59:637][273]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.32.59:843][282]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.33.00:049][291]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.33.00:258][300]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.33.00:465][309]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.33.00:674][318]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.33.00:877][327]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.33.01:097][337]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.33.01:320][347]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.33.01:519][356]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.33.01:724][365]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.33.01:931][374]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.33.02:139][383]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.33.02:344][392]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.33.02:544][401]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.33.02:765][411]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.33.02:967][420]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.33.03:175][429]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.33.03:382][438]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.33.03:590][447]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.33.03:796][456]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.33.04:004][465]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.33.04:214][474]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.33.04:421][483]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.33.04:631][492]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.33.04:842][501]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.33.05:064][511]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.33.05:285][521]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.33.05:494][530]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.33.05:701][538]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.33.05:906][546]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.33.06:116][555]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.33.06:331][564]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.33.06:545][573]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.33.06:568][574]LogBlueprintUserMessages: [BP_Weather_4] Weather change!
+[2022.04.20-15.33.06:758][582]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.06:969][591]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.07:175][600]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.07:383][609]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.07:590][618]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.07:796][627]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.08:001][636]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.08:202][645]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.08:423][655]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.08:645][665]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.08:857][674]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.09:082][683]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.09:302][692]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.09:512][701]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.09:720][709]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.09:938][717]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.10:153][725]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.10:374][734]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.10:576][742]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.10:783][750]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.10:994][758]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.11:207][766]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.11:426][774]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.11:642][783]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.11:859][792]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.12:068][800]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.12:282][808]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.12:493][816]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.12:709][825]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.12:930][834]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.13:139][842]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.13:358][850]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.13:580][858]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.13:794][866]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.14:001][874]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.14:211][883]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.14:423][892]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.14:634][901]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.14:847][910]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.15:048][919]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.15:250][928]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.15:461][937]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.15:676][946]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.15:893][955]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.16:112][964]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.16:318][973]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.16:536][983]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.16:743][992]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.16:957][  1]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.17:168][ 10]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.17:383][ 19]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.17:589][ 28]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.17:805][ 37]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.18:007][ 45]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.18:214][ 54]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.18:434][ 64]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.18:634][ 73]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.18:851][ 82]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.19:068][ 91]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.19:275][100]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.19:475][109]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.19:695][119]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.19:895][128]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.20:095][137]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.20:314][147]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.20:530][157]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.20:751][167]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.20:969][177]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.21:186][187]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.21:403][197]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.21:621][207]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.21:827][217]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.22:036][228]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.22:244][239]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.22:454][250]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.22:661][261]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.22:867][272]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.23:073][283]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.23:281][294]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.23:488][305]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.23:697][316]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.23:905][327]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.24:113][338]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.24:320][349]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.24:528][360]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.24:735][371]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.24:942][382]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.25:149][393]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.25:358][404]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.25:565][415]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.25:773][426]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.25:980][437]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.26:187][448]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.26:396][459]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.26:603][470]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.26:813][481]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.27:021][492]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.27:227][503]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.27:434][514]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.27:642][525]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.27:853][536]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.28:058][547]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.28:264][558]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.28:470][569]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.28:677][580]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.28:885][591]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.29:092][602]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.29:298][613]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.29:504][624]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.29:712][635]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.29:919][646]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.30:125][657]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.30:332][668]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.30:539][679]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.30:747][690]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.30:953][701]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.31:159][712]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.31:366][723]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.31:573][734]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.31:777][745]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.31:988][756]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.32:195][767]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.32:400][778]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.32:605][789]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.32:810][800]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.33:020][811]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.33:229][822]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.33:435][833]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.33:640][844]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.33:846][855]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.34:053][866]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.34:260][877]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.34:472][888]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.34:681][899]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.34:886][910]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.35:093][921]LogBlueprintUserMessages: [BP_Weather_4] Draught
+[2022.04.20-15.33.35:299][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.20-15.33.35:299][930]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2022.04.20-15.33.35:300][930]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-15.33.35:300][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-15.33.35:314][930]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.20-15.33.35:316][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-15.33.35:322][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.20-15.33.35:322][930]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.20-15.33.35:324][930]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.20-15.33.35:334][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.04.20-15.33.35:381][932]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2022.04.20-15.33.39:016][237]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.20-15.33.39:034][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.04.20-15.33.39:039][237]LogSavePackage: Moving '../../../../../../Users/hpuen/OneDrive/Documents/GitHub/Dissertation-Dynamic-Weather-System/Dissertation/Saved/Map_MainMenu1A45314A443B2A9D4FD688A7B4A6BA20.tmp' to '../../../../../../Users/hpuen/OneDrive/Documents/GitHub/Dissertation-Dynamic-Weather-System/Dissertation/Content/Maps/Map_MainMenu.umap'
+[2022.04.20-15.33.39:052][237]AssetCheck: New page: Asset Save: Map_MainMenu
+[2022.04.20-15.33.39:053][237]LogContentValidation: Display: Validating World /Game/Maps/Map_MainMenu.Map_MainMenu
+[2022.04.20-15.33.40:345][304]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Weather_Blueprints/BP_Tree2.BP_Tree2
+[2022.04.20-15.33.40:951][304]LogBlueprintEditor: Perf: 0.6 total seconds to load all 7 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2022.04.20-15.33.40:952][304]LogBlueprintEditor: Perf: 0.5 seconds loading: /Water/FluidSimulation/Blueprints/Libraries/PhysicsMacros
+[2022.04.20-15.33.40:983][304]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2022.04.20-15.33.41:676][304]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.04.20-15.33.41:705][305]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.04.20-15.33.46:778][561]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/PN_interactiveSpruceForest/Meshes/full/low/spruce_full_02_low.spruce_full_02_low
+[2022.04.20-15.33.46:792][561]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.04.20-15.33.46:864][561]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.04.20-15.33.47:400][562]LogRenderer: Reallocating scene render targets to support 944x564 Format 10 NumSamples 1 (Frame:1).
+[2022.04.20-15.33.51:126][681]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_02_low_trunk.spruce_full_02_low_trunk
+[2022.04.20-15.33.54:656][828]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_02_low_MA.spruce_full_02_low_MA
+[2022.04.20-15.34.04:703][185]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2022.04.20-15.34.04:734][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.04.20-15.34.04:742][185]LogSavePackage: Moving '../../../../../../Users/hpuen/OneDrive/Documents/GitHub/Dissertation-Dynamic-Weather-System/Dissertation/Saved/spruce_full_02_low_MA2A9A96544EE963510EED87B0571EFD84.tmp' to '../../../../../../Users/hpuen/OneDrive/Documents/GitHub/Dissertation-Dynamic-Weather-System/Dissertation/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_02_low_MA.uasset'
+[2022.04.20-15.34.04:762][185]AssetCheck: New page: Asset Save: spruce_full_02_low_MA
+[2022.04.20-15.34.04:762][185]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_02_low_MA.spruce_full_02_low_MA
+[2022.04.20-15.34.33:336][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.04.20-15.34.33:360][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.04.20-15.34.33:367][682]LogSavePackage: Moving '../../../../../../Users/hpuen/OneDrive/Documents/GitHub/Dissertation-Dynamic-Weather-System/Dissertation/Saved/spruce_full_02_low_MA5A67126940CB189D14C398AB5F637664.tmp' to '../../../../../../Users/hpuen/OneDrive/Documents/GitHub/Dissertation-Dynamic-Weather-System/Dissertation/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_02_low_MA.uasset'
+[2022.04.20-15.34.33:380][682]AssetCheck: New page: Asset Save: spruce_full_02_low_MA
+[2022.04.20-15.34.33:380][682]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_02_low_MA.spruce_full_02_low_MA
+[2022.04.20-15.34.46:783][350]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-15.34.46:784][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-15.34.48:287][418]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-15.34.48:287][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-15.34.50:645][528]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-15.34.50:645][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-15.34.56:883][856]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Weather_Blueprints/BP_Tree1.BP_Tree1
+[2022.04.20-15.35.25:508][210]BlueprintLog: New page: Compile BP_Tree2
+[2022.04.20-15.35.25:566][210]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2022.04.20-15.35.25:610][210]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.04.20-15.35.26:346][259]LogSavePackage: Moving '../../../../../../Users/hpuen/OneDrive/Documents/GitHub/Dissertation-Dynamic-Weather-System/Dissertation/Saved/BP_Tree2B4CE7E3D45F6843D449FBCAB5AFDF842.tmp' to '../../../../../../Users/hpuen/OneDrive/Documents/GitHub/Dissertation-Dynamic-Weather-System/Dissertation/Content/Blueprints/Weather_Blueprints/BP_Tree2.uasset'
+[2022.04.20-15.35.26:361][259]AssetCheck: New page: Asset Save: BP_Tree2
+[2022.04.20-15.35.26:361][259]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Weather_Blueprints/BP_Tree2.BP_Tree2
+[2022.04.20-15.35.28:654][477]LogSlate: Window 'BP_Tree2' being destroyed
+[2022.04.20-15.35.31:147][646]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Weather_Blueprints/BP_Tree3.BP_Tree3
+[2022.04.20-15.35.52:411][581]BlueprintLog: New page: Compile BP_Tree3
+[2022.04.20-15.35.52:463][581]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2022.04.20-15.35.53:272][650]LogSavePackage: Moving '../../../../../../Users/hpuen/OneDrive/Documents/GitHub/Dissertation-Dynamic-Weather-System/Dissertation/Saved/BP_Tree33F67DAAC444BA664FF0BAEB04DE255AB.tmp' to '../../../../../../Users/hpuen/OneDrive/Documents/GitHub/Dissertation-Dynamic-Weather-System/Dissertation/Content/Blueprints/Weather_Blueprints/BP_Tree3.uasset'
+[2022.04.20-15.35.53:285][650]AssetCheck: New page: Asset Save: BP_Tree3
+[2022.04.20-15.35.53:285][650]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Weather_Blueprints/BP_Tree3.BP_Tree3
+[2022.04.20-15.35.55:748][858]LogRenderer: Reallocating scene render targets to support 944x644 Format 10 NumSamples 1 (Frame:1).
+[2022.04.20-15.35.58:270][991]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/PN_interactiveSpruceForest/Meshes/full/low/spruce_full_03_low.spruce_full_03_low
+[2022.04.20-15.35.58:591][992]LogRenderer: Reallocating scene render targets to support 1120x836 Format 10 NumSamples 1 (Frame:1).
+[2022.04.20-15.36.00:210][ 40]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_03_low_trunk.spruce_full_03_low_trunk
+[2022.04.20-15.36.03:556][171]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_03_low_MA.spruce_full_03_low_MA
+[2022.04.20-15.36.22:746][983]LogRenderer: Reallocating scene render targets to support 1680x1252 Format 10 NumSamples 1 (Frame:993).
+[2022.04.20-15.36.31:674][262]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2022.04.20-15.36.31:711][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.04.20-15.36.31:719][262]LogSavePackage: Moving '../../../../../../Users/hpuen/OneDrive/Documents/GitHub/Dissertation-Dynamic-Weather-System/Dissertation/Saved/spruce_full_03_low_MA4031704F49D8056E338F30838FB8F4CC.tmp' to '../../../../../../Users/hpuen/OneDrive/Documents/GitHub/Dissertation-Dynamic-Weather-System/Dissertation/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_03_low_MA.uasset'
+[2022.04.20-15.36.31:735][262]AssetCheck: New page: Asset Save: spruce_full_03_low_MA
+[2022.04.20-15.36.31:735][262]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_03_low_MA.spruce_full_03_low_MA
+[2022.04.20-15.36.32:876][301]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-15.36.32:876][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-15.36.34:855][368]LogSavePackage: Moving '../../../../../../Users/hpuen/OneDrive/Documents/GitHub/Dissertation-Dynamic-Weather-System/Dissertation/Saved/spruce_full_03_low_trunk00925B1B4C11D45171AC6E816FFB159B.tmp' to '../../../../../../Users/hpuen/OneDrive/Documents/GitHub/Dissertation-Dynamic-Weather-System/Dissertation/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_03_low_trunk.uasset'
+[2022.04.20-15.36.34:870][368]AssetCheck: New page: Asset Save: spruce_full_03_low_trunk
+[2022.04.20-15.36.34:870][368]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_03_low_trunk.spruce_full_03_low_trunk
+[2022.04.20-15.36.35:765][399]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-15.36.35:765][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-15.36.40:165][556]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-15.36.40:165][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-15.36.45:004][917]BlueprintLog: New page: Compile BP_Tree3
+[2022.04.20-15.36.45:070][917]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2022.04.20-15.36.45:649][946]LogSavePackage: Moving '../../../../../../Users/hpuen/OneDrive/Documents/GitHub/Dissertation-Dynamic-Weather-System/Dissertation/Saved/BP_Tree30CD64667444E0A2162D4E9A1FCDEA0B2.tmp' to '../../../../../../Users/hpuen/OneDrive/Documents/GitHub/Dissertation-Dynamic-Weather-System/Dissertation/Content/Blueprints/Weather_Blueprints/BP_Tree3.uasset'
+[2022.04.20-15.36.45:663][946]AssetCheck: New page: Asset Save: BP_Tree3
+[2022.04.20-15.36.45:663][946]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Weather_Blueprints/BP_Tree3.BP_Tree3
+[2022.04.20-15.36.47:624][ 59]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-15.36.47:624][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-15.36.48:795][163]BlueprintLog: New page: Compile BP_Tree2
+[2022.04.20-15.36.48:841][163]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.04.20-15.36.52:356][381]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/PN_interactiveSpruceForest/Meshes/full/low/spruce_full_02_low.spruce_full_02_low
+[2022.04.20-15.36.53:866][419]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_02_low_trunk.spruce_full_02_low_trunk
+[2022.04.20-15.36.56:824][536]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_02_low_MA.spruce_full_02_low_MA
+[2022.04.20-15.37.04:962][859]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2022.04.20-15.37.04:995][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.04.20-15.37.05:004][859]LogSavePackage: Moving '../../../../../../Users/hpuen/OneDrive/Documents/GitHub/Dissertation-Dynamic-Weather-System/Dissertation/Saved/spruce_full_02_low_MA2181CB1246F1D37F6E3F698DB62F6634.tmp' to '../../../../../../Users/hpuen/OneDrive/Documents/GitHub/Dissertation-Dynamic-Weather-System/Dissertation/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_02_low_MA.uasset'
+[2022.04.20-15.37.05:018][859]AssetCheck: New page: Asset Save: spruce_full_02_low_MA
+[2022.04.20-15.37.05:018][859]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_02_low_MA.spruce_full_02_low_MA
+[2022.04.20-15.37.06:022][911]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-15.37.06:022][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-15.37.07:076][957]LogSavePackage: Moving '../../../../../../Users/hpuen/OneDrive/Documents/GitHub/Dissertation-Dynamic-Weather-System/Dissertation/Saved/spruce_full_02_low_trunkBD3CAA1E4256DF17BA3A219AB4DFBB6A.tmp' to '../../../../../../Users/hpuen/OneDrive/Documents/GitHub/Dissertation-Dynamic-Weather-System/Dissertation/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_02_low_trunk.uasset'
+[2022.04.20-15.37.07:089][957]AssetCheck: New page: Asset Save: spruce_full_02_low_trunk
+[2022.04.20-15.37.07:090][957]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_02_low_trunk.spruce_full_02_low_trunk
+[2022.04.20-15.37.07:839][990]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-15.37.07:839][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-15.37.09:449][ 61]LogSavePackage: Moving '../../../../../../Users/hpuen/OneDrive/Documents/GitHub/Dissertation-Dynamic-Weather-System/Dissertation/Saved/spruce_full_02_lowD87B75AE4793A179F272F19B601B463F.tmp' to '../../../../../../Users/hpuen/OneDrive/Documents/GitHub/Dissertation-Dynamic-Weather-System/Dissertation/Content/PN_interactiveSpruceForest/Meshes/full/low/spruce_full_02_low.uasset'
+[2022.04.20-15.37.09:464][ 61]AssetCheck: New page: Asset Save: spruce_full_02_low
+[2022.04.20-15.37.09:464][ 61]LogContentValidation: Display: Validating StaticMesh /Game/PN_interactiveSpruceForest/Meshes/full/low/spruce_full_02_low.spruce_full_02_low
+[2022.04.20-15.37.10:081][ 87]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-15.37.10:081][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-15.37.11:748][196]BlueprintLog: New page: Compile BP_Tree2
+[2022.04.20-15.37.11:807][196]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.04.20-15.37.12:317][221]LogSavePackage: Moving '../../../../../../Users/hpuen/OneDrive/Documents/GitHub/Dissertation-Dynamic-Weather-System/Dissertation/Saved/BP_Tree24D910698443B3C91342E14A80C71C616.tmp' to '../../../../../../Users/hpuen/OneDrive/Documents/GitHub/Dissertation-Dynamic-Weather-System/Dissertation/Content/Blueprints/Weather_Blueprints/BP_Tree2.uasset'
+[2022.04.20-15.37.12:329][221]AssetCheck: New page: Asset Save: BP_Tree2
+[2022.04.20-15.37.12:329][221]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Weather_Blueprints/BP_Tree2.BP_Tree2
+[2022.04.20-15.37.12:827][248]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.04.20-15.37.12:827][248]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-15.37.12:828][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-15.37.14:389][395]BlueprintLog: New page: Compile BP_Tree1
+[2022.04.20-15.37.14:455][395]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2022.04.20-15.37.14:907][422]LogSavePackage: Moving '../../../../../../Users/hpuen/OneDrive/Documents/GitHub/Dissertation-Dynamic-Weather-System/Dissertation/Saved/BP_Tree1178918BB44A578C3C8625F99D2A61796.tmp' to '../../../../../../Users/hpuen/OneDrive/Documents/GitHub/Dissertation-Dynamic-Weather-System/Dissertation/Content/Blueprints/Weather_Blueprints/BP_Tree1.uasset'
+[2022.04.20-15.37.14:919][422]AssetCheck: New page: Asset Save: BP_Tree1
+[2022.04.20-15.37.14:919][422]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Weather_Blueprints/BP_Tree1.BP_Tree1
+[2022.04.20-15.37.15:722][476]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.04.20-15.37.15:722][476]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-15.37.15:722][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-15.37.17:104][587]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.20-15.37.17:109][587]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.20-15.37.17:109][587]PIE: New page: PIE session: Map_MainMenu (20 Apr 2022, 19:37:17)
+[2022.04.20-15.37.17:109][587]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_MainMenu
+[2022.04.20-15.37.17:111][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001289s)
+[2022.04.20-15.37.17:112][587]LogAIModule: Creating AISystem for world Map_MainMenu
+[2022.04.20-15.37.17:112][587]LogPlayLevel: PIE: World Init took: (0.001292s)
+[2022.04.20-15.37.17:112][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_MainMenu.Map_MainMenu to /Game/Maps/UEDPIE_0_Map_MainMenu.Map_MainMenu (0.002689s)
+[2022.04.20-15.37.17:164][587]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2022.04.20-15.37.17:166][587]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.04.20-15.37.17:166][587]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.20-15.37.17:166][587]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.20-15.37.17:166][587]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.20-15.37.17:166][587]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.20-15.37.17:166][587]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.20-15.37.17:166][587]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.20-15.37.17:166][587]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.20-15.37.17:166][587]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.20-15.37.17:166][587]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.20-15.37.17:166][587]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.20-15.37.17:166][587]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.20-15.37.17:166][587]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.20-15.37.17:167][587]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.20-15.37.17:167][587]LogAudioMixer: Display: 1: FrontRight
+[2022.04.20-15.37.17:174][587]LogAudioMixer: Display: Using Audio Device Speakers (2- High Definition Audio Device)
+[2022.04.20-15.37.17:174][587]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.20-15.37.17:174][587]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.20-15.37.17:174][587]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.20-15.37.17:174][587]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.20-15.37.17:174][587]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.20-15.37.17:175][587]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.20-15.37.17:175][587]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.20-15.37.17:176][587]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.20-15.37.17:176][587]LogInit: FAudioDevice initialized.
+[2022.04.20-15.37.17:176][587]LogAudio: Display: Audio Device (ID: 3) registered with world 'Map_MainMenu'.
+[2022.04.20-15.37.17:185][587]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.20-15.37.17:186][587]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_MainMenu.Map_MainMenu up for play (max tick rate 0) at 2022.04.20-17.37.17
+[2022.04.20-15.37.17:186][587]LogWorld: Bringing up level for play took: 0.000386
+[2022.04.20-15.37.17:186][587]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.04.20-15.37.17:189][587]PIE: Server logged in
+[2022.04.20-15.37.17:190][587]PIE: Play in editor total start time 0.082 seconds.
+[2022.04.20-15.37.18:124][688]LogNet: Browse: /Game/Maps/MainMap
+[2022.04.20-15.37.18:124][688]LogLoad: LoadMap: /Game/Maps/MainMap
+[2022.04.20-15.37.18:124][688]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_MainMenu
+[2022.04.20-15.37.18:125][688]LogWorld: UWorld::CleanupWorld for Map_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-15.37.18:125][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-15.37.18:174][688]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.20-15.37.18:176][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.04.20-15.37.18:268][688]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMap'.
+[2022.04.20-15.37.18:269][688]LogAIModule: Creating AISystem for world MainMap
+[2022.04.20-15.37.18:269][688]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.20-15.37.18:280][688]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.04.20-17.37.18
+[2022.04.20-15.37.18:281][688]LogWorld: Bringing up level for play took: 0.010777
+[2022.04.20-15.37.18:282][688]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.18:283][688]LogLoad: Took 0.158139 seconds to LoadMap(/Game/Maps/MainMap)
+[2022.04.20-15.37.18:471][689]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.18:682][698]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.18:898][708]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.19:102][717]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.19:308][726]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.19:524][735]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.19:739][744]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.19:957][753]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.20:173][762]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.20:390][771]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.20:607][780]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.20:821][789]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.21:040][798]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.21:253][807]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.21:469][816]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.21:683][825]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.21:893][834]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.22:101][843]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.22:322][853]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.22:541][863]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.22:742][872]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.22:948][882]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.23:155][892]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.23:368][902]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.23:572][911]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.23:779][920]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.23:987][929]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.24:197][938]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.24:416][948]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.24:632][957]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.24:853][966]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.25:052][974]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.25:277][983]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.25:502][992]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.25:713][  1]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.25:919][ 10]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.26:127][ 19]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.26:335][ 28]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.26:552][ 37]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.26:769][ 46]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.26:978][ 55]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.27:189][ 64]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.27:407][ 73]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.27:621][ 82]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.27:837][ 91]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.28:054][100]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.28:266][109]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.28:479][118]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.28:692][127]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.28:905][136]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.29:122][145]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.29:334][154]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.29:545][163]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.29:759][172]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.29:971][181]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.30:188][190]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.30:402][199]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.30:619][208]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.30:832][217]LogBlueprintUserMessages: [BP_Weather_4] Snowing
+[2022.04.20-15.37.30:868][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.20-15.37.30:868][217]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2022.04.20-15.37.30:868][217]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-15.37.30:869][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-15.37.30:898][217]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.20-15.37.30:902][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-15.37.30:923][217]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.20-15.37.30:923][217]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.20-15.37.30:924][217]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.20-15.37.30:925][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.20-15.37.30:932][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.04.20-15.37.30:953][218]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.04.20-15.37.32:689][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.04.20-15.37.32:693][372]LogSavePackage: Moving '../../../../../../Users/hpuen/OneDrive/Documents/GitHub/Dissertation-Dynamic-Weather-System/Dissertation/Saved/Map_MainMenuEAC9C8EF4E6C7154B9568A923591940F.tmp' to '../../../../../../Users/hpuen/OneDrive/Documents/GitHub/Dissertation-Dynamic-Weather-System/Dissertation/Content/Maps/Map_MainMenu.umap'
+[2022.04.20-15.37.32:707][372]AssetCheck: New page: Asset Save: Map_MainMenu
+[2022.04.20-15.37.32:707][372]LogContentValidation: Display: Validating World /Game/Maps/Map_MainMenu.Map_MainMenu
+[2022.04.20-15.37.33:843][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.04.20-15.37.33:856][459]LogSlate: Window 'Dissertation - Unreal Editor' being destroyed
+[2022.04.20-15.37.33:959][460]Cmd: QUIT_EDITOR
+[2022.04.20-15.37.33:959][460]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.04.20-15.37.33:961][460]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.04.20-15.37.34:480][460]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.04.20-15.37.34:480][460]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.04.20-15.37.34:480][460]LogAudio: Display: Audio Device unregistered from world 'Map_MainMenu'.
+[2022.04.20-15.37.34:480][460]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.20-15.37.34:481][460]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.20-15.37.34:486][460]LogAudio: Display: Audio Device Manager Shutdown
+[2022.04.20-15.37.34:487][460]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.20-15.37.34:491][460]LogExit: Preparing to exit.
+[2022.04.20-15.37.35:336][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.04.20-15.37.35:444][460]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-15.37.35:446][460]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-15.37.35:448][460]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-15.37.35:449][460]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-15.37.35:451][460]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-15.37.35:453][460]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-15.37.35:507][460]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.04.20-15.37.35:514][460]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-15.37.35:514][460]LogExit: Editor shut down
+[2022.04.20-15.37.35:515][460]LogExit: Transaction tracking system shut down
+[2022.04.20-15.37.35:694][460]LogExit: Object subsystem successfully closed.
+[2022.04.20-15.37.35:705][460]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.20-15.37.35:705][460]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.04.20-15.37.35:705][460]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.04.20-15.37.35:705][460]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.04.20-15.37.35:705][460]LogShaderCompilers: Display: ================================================
+[2022.04.20-15.37.35:716][460]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.04.20-15.37.35:736][460]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (888)
+[2022.04.20-15.37.35:736][460]LogModuleManager: Shutting down and abandoning module BlueprintGraph (886)
+[2022.04.20-15.37.35:736][460]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (884)
+[2022.04.20-15.37.35:736][460]LogModuleManager: Shutting down and abandoning module Voice (882)
+[2022.04.20-15.37.35:736][460]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (880)
+[2022.04.20-15.37.35:736][460]LogModuleManager: Shutting down and abandoning module SceneOutliner (878)
+[2022.04.20-15.37.35:736][460]LogModuleManager: Shutting down and abandoning module AddContentDialog (876)
+[2022.04.20-15.37.35:736][460]LogModuleManager: Shutting down and abandoning module WidgetCarousel (875)
+[2022.04.20-15.37.35:736][460]LogModuleManager: Shutting down and abandoning module EditorWidgets (872)
+[2022.04.20-15.37.35:736][460]LogModuleManager: Shutting down and abandoning module StatsViewer (870)
+[2022.04.20-15.37.35:736][460]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (868)
+[2022.04.20-15.37.35:736][460]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (866)
+[2022.04.20-15.37.35:736][460]LogModuleManager: Shutting down and abandoning module AutomationWorker (864)
+[2022.04.20-15.37.35:736][460]LogModuleManager: Shutting down and abandoning module SteamVREditor (862)
+[2022.04.20-15.37.35:736][460]LogModuleManager: Shutting down and abandoning module OculusMR (860)
+[2022.04.20-15.37.35:736][460]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (858)
+[2022.04.20-15.37.35:736][460]LogModuleManager: Shutting down and abandoning module TakeRecorder (857)
+[2022.04.20-15.37.35:736][460]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (854)
+[2022.04.20-15.37.35:736][460]LogModuleManager: Shutting down and abandoning module TakesCore (852)
+[2022.04.20-15.37.35:736][460]LogModuleManager: Shutting down and abandoning module OpenXRInput (850)
+[2022.04.20-15.37.35:736][460]LogModuleManager: Shutting down and abandoning module GooglePADEditor (848)
+[2022.04.20-15.37.35:736][460]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (846)
+[2022.04.20-15.37.35:736][460]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (844)
+[2022.04.20-15.37.35:736][460]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (842)
+[2022.04.20-15.37.35:736][460]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (840)
+[2022.04.20-15.37.35:736][460]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (838)
+[2022.04.20-15.37.35:736][460]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (836)
+[2022.04.20-15.37.35:736][460]LogModuleManager: Shutting down and abandoning module WebMMedia (834)
+[2022.04.20-15.37.35:736][460]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (832)
+[2022.04.20-15.37.35:736][460]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (830)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (828)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (826)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (824)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module SequenceRecorder (823)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (820)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (818)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (816)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (814)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (812)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (810)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (808)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module WaterEditor (806)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module PlanarCut (804)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (802)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (800)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (798)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module CharacterAI (796)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module TextureAlignMode (794)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module BspMode (792)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module GeometryMode (790)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (788)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module SmartSnapping (786)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module SessionServices (784)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module MeshPaint (782)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (780)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module FoliageEdit (778)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module LandscapeEditor (776)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module MeshPaintMode (774)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (772)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module ActorPickerMode (770)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module PlacementMode (768)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module ViewportSnapping (766)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module ViewportInteraction (764)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module ClothPainter (762)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (761)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module LogVisualizer (758)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module IntroTutorials (756)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (755)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (752)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (750)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (748)
+[2022.04.20-15.37.35:737][460]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (747)
+[2022.04.20-15.37.36:725][460]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (744)
+[2022.04.20-15.37.36:725][460]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (742)
+[2022.04.20-15.37.36:725][460]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (740)
+[2022.04.20-15.37.36:725][460]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (738)
+[2022.04.20-15.37.36:725][460]LogModuleManager: Shutting down and abandoning module TraceInsights (736)
+[2022.04.20-15.37.36:725][460]MemoryProfiler: Shutdown
+[2022.04.20-15.37.36:725][460]NetworkingProfiler: Shutdown
+[2022.04.20-15.37.36:725][460]LoadingProfiler: Shutdown
+[2022.04.20-15.37.36:725][460]TimingProfiler: Shutdown
+[2022.04.20-15.37.36:725][460]LogModuleManager: Shutting down and abandoning module TraceServices (735)
+[2022.04.20-15.37.36:725][460]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (732)
+[2022.04.20-15.37.36:725][460]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (730)
+[2022.04.20-15.37.36:725][460]LogModuleManager: Shutting down and abandoning module InputBindingEditor (728)
+[2022.04.20-15.37.36:725][460]LogModuleManager: Shutting down and abandoning module MergeActors (726)
+[2022.04.20-15.37.36:725][460]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (724)
+[2022.04.20-15.37.36:725][460]LogModuleManager: Shutting down and abandoning module LocalizationService (723)
+[2022.04.20-15.37.36:726][460]LogModuleManager: Shutting down and abandoning module HardwareTargeting (720)
+[2022.04.20-15.37.36:726][460]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (718)
+[2022.04.20-15.37.36:726][460]LogModuleManager: Shutting down and abandoning module UndoHistory (716)
+[2022.04.20-15.37.36:726][460]LogModuleManager: Shutting down and abandoning module XmlParser (714)
+[2022.04.20-15.37.36:726][460]LogModuleManager: Shutting down and abandoning module Blutility (712)
+[2022.04.20-15.37.36:726][460]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (710)
+[2022.04.20-15.37.36:726][460]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (709)
+[2022.04.20-15.37.36:726][460]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (706)
+[2022.04.20-15.37.36:726][460]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (705)
+[2022.04.20-15.37.36:726][460]LogModuleManager: Shutting down and abandoning module SettingsEditor (702)
+[2022.04.20-15.37.36:726][460]LogModuleManager: Shutting down and abandoning module ProjectLauncher (700)
+[2022.04.20-15.37.36:726][460]LogModuleManager: Shutting down and abandoning module SessionFrontend (698)
+[2022.04.20-15.37.36:726][460]LogModuleManager: Shutting down and abandoning module ProfilerClient (696)
+[2022.04.20-15.37.36:726][460]LogModuleManager: Shutting down and abandoning module DeviceManager (694)
+[2022.04.20-15.37.36:726][460]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (693)
+[2022.04.20-15.37.36:758][460]LogModuleManager: Shutting down and abandoning module AutomationController (690)
+[2022.04.20-15.37.36:758][460]LogModuleManager: Shutting down and abandoning module AutomationWindow (688)
+[2022.04.20-15.37.36:758][460]LogModuleManager: Shutting down and abandoning module Layers (686)
+[2022.04.20-15.37.36:758][460]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (684)
+[2022.04.20-15.37.36:758][460]LogModuleManager: Shutting down and abandoning module DetailCustomizations (682)
+[2022.04.20-15.37.36:758][460]LogModuleManager: Shutting down and abandoning module PackagesDialog (680)
+[2022.04.20-15.37.36:758][460]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (678)
+[2022.04.20-15.37.36:758][460]LogModuleManager: Shutting down and abandoning module Persona (676)
+[2022.04.20-15.37.36:759][460]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (675)
+[2022.04.20-15.37.36:759][460]LogModuleManager: Shutting down and abandoning module AnimGraph (673)
+[2022.04.20-15.37.36:759][460]LogModuleManager: Shutting down and abandoning module Kismet (670)
+[2022.04.20-15.37.36:768][460]LogModuleManager: Shutting down and abandoning module KismetWidgets (669)
+[2022.04.20-15.37.36:768][460]LogModuleManager: Shutting down and abandoning module GraphEditor (666)
+[2022.04.20-15.37.36:768][460]LogModuleManager: Shutting down and abandoning module StructViewer (664)
+[2022.04.20-15.37.36:768][460]LogModuleManager: Shutting down and abandoning module ClassViewer (662)
+[2022.04.20-15.37.36:768][460]LogModuleManager: Shutting down and abandoning module Toolbox (660)
+[2022.04.20-15.37.36:768][460]LogModuleManager: Shutting down and abandoning module ModuleUI (658)
+[2022.04.20-15.37.36:768][460]LogModuleManager: Shutting down and abandoning module OutputLog (656)
+[2022.04.20-15.37.36:769][460]LogModuleManager: Shutting down and abandoning module GammaUI (654)
+[2022.04.20-15.37.36:769][460]LogModuleManager: Shutting down and abandoning module Documentation (652)
+[2022.04.20-15.37.36:769][460]LogModuleManager: Shutting down and abandoning module LiveCoding (650)
+[2022.04.20-15.37.36:769][460]LogModuleManager: Shutting down and abandoning module LevelSequence (648)
+[2022.04.20-15.37.36:769][460]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (646)
+[2022.04.20-15.37.36:769][460]LogModuleManager: Shutting down and abandoning module MovieScene (644)
+[2022.04.20-15.37.36:769][460]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (642)
+[2022.04.20-15.37.36:769][460]LogModuleManager: Shutting down and abandoning module LauncherPlatform (640)
+[2022.04.20-15.37.36:769][460]LogModuleManager: Shutting down and abandoning module AnalyticsET (638)
+[2022.04.20-15.37.36:769][460]LogModuleManager: Shutting down and abandoning module PortalServices (636)
+[2022.04.20-15.37.36:769][460]LogModuleManager: Shutting down and abandoning module PortalRpc (634)
+[2022.04.20-15.37.36:769][460]LogModuleManager: Shutting down and abandoning module MessagingRpc (632)
+[2022.04.20-15.37.36:769][460]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (630)
+[2022.04.20-15.37.36:769][460]LogModuleManager: Shutting down and abandoning module AudioMixerCore (629)
+[2022.04.20-15.37.36:769][460]LogModuleManager: Shutting down and abandoning module AIModule (626)
+[2022.04.20-15.37.36:769][460]LogModuleManager: Shutting down and abandoning module GameplayDebugger (625)
+[2022.04.20-15.37.36:769][460]LogModuleManager: Shutting down and abandoning module AITestSuite (623)
+[2022.04.20-15.37.36:769][460]LogModuleManager: Shutting down and abandoning module NavigationSystem (621)
+[2022.04.20-15.37.36:769][460]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (618)
+[2022.04.20-15.37.36:769][460]LogModuleManager: Shutting down and abandoning module ProfilerService (616)
+[2022.04.20-15.37.36:999][460]LogModuleManager: Shutting down and abandoning module TaskGraph (614)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (612)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module OculusEditor (610)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module OculusInput (608)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (606)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (604)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (602)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module CollectionManager (601)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module SynthesisEditor (598)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module Synthesis (596)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (594)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (592)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module TakeSequencer (590)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module TakeMovieScene (588)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module OpenXREditor (586)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (584)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module GooglePAD (582)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module EditableMesh (580)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (578)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module CableComponent (576)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module AudioCapture (574)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (573)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (570)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module AssetTags (568)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (566)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module AppleImageUtils (564)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module AndroidPermission (562)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (560)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (558)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module ScreenshotTools (556)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module TemplateSequence (554)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module MediaCompositing (552)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module ImgMedia (550)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (548)
+[2022.04.20-15.37.37:000][460]LogOpenImageDenoise: OIDN shutting down
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (546)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module MotoSynth (544)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module LandmassEditor (542)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module Landmass (540)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module MeshConversion (538)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module DynamicMesh (536)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (534)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module GeometricObjects (532)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (530)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (528)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (526)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (524)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (523)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (520)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (518)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (516)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (514)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (512)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (510)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (508)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (506)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (504)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module ChaosNiagara (502)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module FractureEditor (500)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (499)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (496)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module BackChannel (494)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (492)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module AutomationUtils (490)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module AlembicImporter (488)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module AlembicLibrary (487)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module GeometryCache (486)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (485)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (480)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module PluginBrowser (478)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (476)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (474)
+[2022.04.20-15.37.37:000][460]LogModuleManager: Shutting down and abandoning module CurveEditorTools (472)
+[2022.04.20-15.37.37:001][460]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (470)
+[2022.04.20-15.37.37:001][460]LogModuleManager: Shutting down and abandoning module CryptoKeys (468)
+[2022.04.20-15.37.37:001][460]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (466)
+[2022.04.20-15.37.37:001][460]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (464)
+[2022.04.20-15.37.37:001][460]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (462)
+[2022.04.20-15.37.37:001][460]LogModuleManager: Shutting down and abandoning module UObjectPlugin (460)
+[2022.04.20-15.37.37:001][460]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (458)
+[2022.04.20-15.37.37:001][460]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (456)
+[2022.04.20-15.37.37:001][460]LogModuleManager: Shutting down and abandoning module PluginUtils (454)
+[2022.04.20-15.37.37:001][460]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (452)
+[2022.04.20-15.37.37:001][460]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (450)
+[2022.04.20-15.37.37:001][460]LogModuleManager: Shutting down and abandoning module GitSourceControl (448)
+[2022.04.20-15.37.37:001][460]LogModuleManager: Shutting down and abandoning module SourceControl (447)
+[2022.04.20-15.37.37:001][460]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (444)
+[2022.04.20-15.37.37:001][460]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (442)
+[2022.04.20-15.37.37:001][460]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (440)
+[2022.04.20-15.37.37:001][460]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (438)
+[2022.04.20-15.37.37:001][460]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (436)
+[2022.04.20-15.37.37:001][460]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (434)
+[2022.04.20-15.37.37:001][460]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (432)
+[2022.04.20-15.37.37:001][460]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (430)
+[2022.04.20-15.37.37:001][460]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (428)
+[2022.04.20-15.37.37:001][460]LogModuleManager: Shutting down and abandoning module LiveLink (426)
+[2022.04.20-15.37.37:413][460]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (424)
+[2022.04.20-15.37.37:413][460]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (422)
+[2022.04.20-15.37.37:413][460]LogModuleManager: Shutting down and abandoning module Paper2DEditor (420)
+[2022.04.20-15.37.37:413][460]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (418)
+[2022.04.20-15.37.37:413][460]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (416)
+[2022.04.20-15.37.37:413][460]LogModuleManager: Shutting down and abandoning module SoundFields (414)
+[2022.04.20-15.37.37:413][460]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (412)
+[2022.04.20-15.37.37:413][460]LogModuleManager: Shutting down and abandoning module SignificanceManager (410)
+[2022.04.20-15.37.37:413][460]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (408)
+[2022.04.20-15.37.37:413][460]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (406)
+[2022.04.20-15.37.37:413][460]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (402)
+[2022.04.20-15.37.37:413][460]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (400)
+[2022.04.20-15.37.37:413][460]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (398)
+[2022.04.20-15.37.37:413][460]LogModuleManager: Shutting down and abandoning module ActorSequence (396)
+[2022.04.20-15.37.37:413][460]LogModuleManager: Shutting down and abandoning module UdpMessaging (394)
+[2022.04.20-15.37.37:515][460]LogModuleManager: Shutting down and abandoning module TcpMessaging (392)
+[2022.04.20-15.37.37:615][460]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (390)
+[2022.04.20-15.37.37:615][460]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (388)
+[2022.04.20-15.37.37:615][460]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (386)
+[2022.04.20-15.37.37:615][460]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (384)
+[2022.04.20-15.37.37:615][460]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (382)
+[2022.04.20-15.37.37:615][460]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (380)
+[2022.04.20-15.37.37:615][460]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (378)
+[2022.04.20-15.37.37:615][460]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.04.20-15.37.37:615][460]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (376)
+[2022.04.20-15.37.37:615][460]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (374)
+[2022.04.20-15.37.37:615][460]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (372)
+[2022.04.20-15.37.37:615][460]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (370)
+[2022.04.20-15.37.37:615][460]LogModuleManager: Shutting down and abandoning module MagicLeapController (368)
+[2022.04.20-15.37.37:615][460]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (366)
+[2022.04.20-15.37.37:615][460]LogModuleManager: Shutting down and abandoning module MagicLeapAR (364)
+[2022.04.20-15.37.37:615][460]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (362)
+[2022.04.20-15.37.37:616][460]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (360)
+[2022.04.20-15.37.37:616][460]LogModuleManager: Shutting down and abandoning module FacialAnimation (358)
+[2022.04.20-15.37.37:616][460]LogModuleManager: Shutting down and abandoning module DataValidation (356)
+[2022.04.20-15.37.37:616][460]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (354)
+[2022.04.20-15.37.37:616][460]LogModuleManager: Shutting down and abandoning module LevelEditor (353)
+[2022.04.20-15.37.37:618][460]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (352)
+[2022.04.20-15.37.37:618][460]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (350)
+[2022.04.20-15.37.37:618][460]LogModuleManager: Shutting down and abandoning module MainFrame (348)
+[2022.04.20-15.37.37:618][460]LogModuleManager: Shutting down and abandoning module HotReload (347)
+[2022.04.20-15.37.37:619][460]LogModuleManager: Shutting down and abandoning module ToolMenus (343)
+[2022.04.20-15.37.37:619][460]LogModuleManager: Shutting down and abandoning module TreeMap (341)
+[2022.04.20-15.37.37:619][460]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (338)
+[2022.04.20-15.37.37:619][460]LogModuleManager: Shutting down and abandoning module Niagara (336)
+[2022.04.20-15.37.37:619][460]LogModuleManager: Shutting down and abandoning module SignalProcessing (335)
+[2022.04.20-15.37.37:619][460]LogModuleManager: Shutting down and abandoning module NiagaraEditor (333)
+[2022.04.20-15.37.37:620][460]LogModuleManager: Shutting down and abandoning module ContentBrowser (332)
+[2022.04.20-15.37.37:620][460]LogModuleManager: Shutting down and abandoning module ContentBrowserData (331)
+[2022.04.20-15.37.37:620][460]LogModuleManager: Shutting down and abandoning module NiagaraCore (326)
+[2022.04.20-15.37.37:620][460]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (324)
+[2022.04.20-15.37.37:620][460]LogModuleManager: Shutting down and abandoning module AnimationSharing (322)
+[2022.04.20-15.37.37:620][460]LogModuleManager: Shutting down and abandoning module GameplayCameras (320)
+[2022.04.20-15.37.37:620][460]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (318)
+[2022.04.20-15.37.37:620][460]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (316)
+[2022.04.20-15.37.37:620][460]LogModuleManager: Shutting down and abandoning module Paper2D (314)
+[2022.04.20-15.37.37:620][460]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (312)
+[2022.04.20-15.37.37:622][460]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (310)
+[2022.04.20-15.37.37:622][460]LogModuleManager: Shutting down and abandoning module BlueprintMaterialTextureNodes (308)
+[2022.04.20-15.37.37:622][460]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (306)
+[2022.04.20-15.37.37:622][460]LogModuleManager: Shutting down and abandoning module PacketHandler (304)
+[2022.04.20-15.37.37:622][460]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (302)
+[2022.04.20-15.37.37:622][460]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (300)
+[2022.04.20-15.37.37:622][460]LogModuleManager: Shutting down and abandoning module MediaAssets (298)
+[2022.04.20-15.37.37:622][460]LogModuleManager: Shutting down and abandoning module Overlay (296)
+[2022.04.20-15.37.37:622][460]LogModuleManager: Shutting down and abandoning module OverlayEditor (295)
+[2022.04.20-15.37.37:622][460]LogModuleManager: Shutting down and abandoning module VREditor (292)
+[2022.04.20-15.37.37:622][460]LogModuleManager: Shutting down and abandoning module StringTableEditor (290)
+[2022.04.20-15.37.37:622][460]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (288)
+[2022.04.20-15.37.37:622][460]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (286)
+[2022.04.20-15.37.37:622][460]LogModuleManager: Shutting down and abandoning module FunctionalTesting (284)
+[2022.04.20-15.37.37:622][460]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (282)
+[2022.04.20-15.37.37:622][460]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (281)
+[2022.04.20-15.37.37:622][460]LogModuleManager: Shutting down and abandoning module UMG (278)
+[2022.04.20-15.37.37:622][460]LogModuleManager: Shutting down and abandoning module UMGEditor (277)
+[2022.04.20-15.37.37:622][460]LogModuleManager: Shutting down and abandoning module MessageLog (275)
+[2022.04.20-15.37.37:622][460]LogModuleManager: Shutting down and abandoning module SlateReflector (270)
+[2022.04.20-15.37.37:622][460]LogModuleManager: Shutting down and abandoning module Slate (268)
+[2022.04.20-15.37.37:622][460]LogModuleManager: Shutting down and abandoning module SlateCore (266)
+[2022.04.20-15.37.37:622][460]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (264)
+[2022.04.20-15.37.37:622][460]LogModuleManager: Shutting down and abandoning module UnrealEd (262)
+[2022.04.20-15.37.37:622][460]LogModuleManager: Shutting down and abandoning module MRMesh (260)
+[2022.04.20-15.37.37:622][460]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (258)
+[2022.04.20-15.37.37:622][460]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (256)
+[2022.04.20-15.37.37:622][460]LogModuleManager: Shutting down and abandoning module XAudio2 (254)
+[2022.04.20-15.37.37:622][460]LogModuleManager: Shutting down and abandoning module Networking (252)
+[2022.04.20-15.37.37:622][460]LogModuleManager: Shutting down and abandoning module Core (250)
+[2022.04.20-15.37.37:622][460]LogModuleManager: Shutting down and abandoning module MaterialEditor (248)
+[2022.04.20-15.37.37:622][460]LogModuleManager: Shutting down and abandoning module MovieSceneTools (246)
+[2022.04.20-15.37.37:622][460]LogModuleManager: Shutting down and abandoning module CurveEditor (245)
+[2022.04.20-15.37.37:623][460]LogModuleManager: Shutting down and abandoning module Sequencer (243)
+[2022.04.20-15.37.37:623][460]LogModuleManager: Shutting down and abandoning module EditorStyle (242)
+[2022.04.20-15.37.37:623][460]LogModuleManager: Shutting down and abandoning module KismetCompiler (238)
+[2022.04.20-15.37.37:623][460]LogModuleManager: Shutting down and abandoning module MeshBuilder (236)
+[2022.04.20-15.37.37:623][460]LogModuleManager: Shutting down and abandoning module MeshUtilities (234)
+[2022.04.20-15.37.37:623][460]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (233)
+[2022.04.20-15.37.37:623][460]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (232)
+[2022.04.20-15.37.37:623][460]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (231)
+[2022.04.20-15.37.37:623][460]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (229)
+[2022.04.20-15.37.37:623][460]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (227)
+[2022.04.20-15.37.37:623][460]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (225)
+[2022.04.20-15.37.37:623][460]LogModuleManager: Shutting down and abandoning module MaterialBaking (221)
+[2022.04.20-15.37.37:623][460]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (216)
+[2022.04.20-15.37.37:623][460]LogModuleManager: Shutting down and abandoning module DerivedDataCache (214)
+[2022.04.20-15.37.37:623][460]LogModuleManager: Shutting down and abandoning module TargetPlatform (212)
+[2022.04.20-15.37.37:623][460]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (211)
+[2022.04.20-15.37.37:623][460]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (209)
+[2022.04.20-15.37.37:624][460]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (207)
+[2022.04.20-15.37.37:624][460]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (205)
+[2022.04.20-15.37.37:624][460]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (203)
+[2022.04.20-15.37.37:624][460]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (201)
+[2022.04.20-15.37.37:624][460]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (199)
+[2022.04.20-15.37.37:624][460]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (197)
+[2022.04.20-15.37.37:624][460]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (195)
+[2022.04.20-15.37.37:624][460]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (193)
+[2022.04.20-15.37.37:624][460]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (191)
+[2022.04.20-15.37.37:624][460]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (189)
+[2022.04.20-15.37.37:624][460]LogModuleManager: Shutting down and abandoning module ImageWrapper (188)
+[2022.04.20-15.37.37:624][460]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (185)
+[2022.04.20-15.37.37:624][460]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (183)
+[2022.04.20-15.37.37:624][460]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (181)
+[2022.04.20-15.37.37:624][460]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (179)
+[2022.04.20-15.37.37:624][460]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (177)
+[2022.04.20-15.37.37:624][460]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (175)
+[2022.04.20-15.37.37:624][460]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (173)
+[2022.04.20-15.37.37:624][460]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (171)
+[2022.04.20-15.37.37:624][460]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (169)
+[2022.04.20-15.37.37:624][460]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (167)
+[2022.04.20-15.37.37:624][460]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (165)
+[2022.04.20-15.37.37:624][460]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (163)
+[2022.04.20-15.37.37:624][460]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (161)
+[2022.04.20-15.37.37:625][460]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (159)
+[2022.04.20-15.37.37:625][460]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (157)
+[2022.04.20-15.37.37:625][460]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (155)
+[2022.04.20-15.37.37:625][460]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (153)
+[2022.04.20-15.37.37:625][460]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (151)
+[2022.04.20-15.37.37:625][460]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (149)
+[2022.04.20-15.37.37:625][460]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (147)
+[2022.04.20-15.37.37:625][460]LogModuleManager: Shutting down and abandoning module Messaging (145)
+[2022.04.20-15.37.37:625][460]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (143)
+[2022.04.20-15.37.37:625][460]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (141)
+[2022.04.20-15.37.37:627][460]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (139)
+[2022.04.20-15.37.37:627][460]LogModuleManager: Shutting down and abandoning module D3D11RHI (136)
+[2022.04.20-15.37.37:627][460]LogModuleManager: Shutting down and abandoning module InputCore (134)
+[2022.04.20-15.37.37:627][460]LogModuleManager: Shutting down and abandoning module Settings (132)
+[2022.04.20-15.37.37:627][460]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (130)
+[2022.04.20-15.37.37:628][460]LogModuleManager: Shutting down and abandoning module PhysXCooking (128)
+[2022.04.20-15.37.37:628][460]LogModuleManager: Shutting down and abandoning module Chaos (126)
+[2022.04.20-15.37.37:628][460]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (124)
+[2022.04.20-15.37.37:628][460]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (123)
+[2022.04.20-15.37.37:628][460]LogModuleManager: Shutting down and abandoning module AVEncoder (122)
+[2022.04.20-15.37.37:628][460]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (118)
+[2022.04.20-15.37.37:628][460]LogModuleManager: Shutting down and abandoning module SteamVRInput (116)
+[2022.04.20-15.37.37:628][460]LogModuleManager: Shutting down and abandoning module SteamVR (114)
+[2022.04.20-15.37.37:628][460]LogHMD: Freeing OpenVRDLLHandle.
+[2022.04.20-15.37.37:628][460]LogModuleManager: Shutting down and abandoning module OculusHMD (112)
+[2022.04.20-15.37.37:628][460]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (110)
+[2022.04.20-15.37.37:628][460]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2022.04.20-15.37.37:628][460]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.04.20-15.37.37:628][460]LogModuleManager: Shutting down and abandoning module OpenXRAR (106)
+[2022.04.20-15.37.37:628][460]LogModuleManager: Shutting down and abandoning module AugmentedReality (105)
+[2022.04.20-15.37.37:628][460]LogModuleManager: Shutting down and abandoning module OpenXRHMD (102)
+[2022.04.20-15.37.37:628][460]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (100)
+[2022.04.20-15.37.37:628][460]LogModuleManager: Shutting down and abandoning module ChunkDownloader (98)
+[2022.04.20-15.37.37:628][460]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (96)
+[2022.04.20-15.37.37:628][460]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2022.04.20-15.37.37:628][460]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (90)
+[2022.04.20-15.37.37:629][460]LogModuleManager: Shutting down and abandoning module XMPP (85)
+[2022.04.20-15.37.37:629][460]LogModuleManager: Shutting down and abandoning module WebSockets (84)
+[2022.04.20-15.37.37:649][460]LogModuleManager: Shutting down and abandoning module HTTP (81)
+[2022.04.20-15.37.37:649][460]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.04.20-15.37.37:649][460]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B793FD454-4A44-B8BF-AE14-31AE729150E8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1fb5bc69495cd940c88a0d9131fe122e%7C5e3a10abcd1f4a6fb4a6e246a1d4dd6c%7C3ffe6b03-09f4-4afc-aa19-f22146f89928&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.04.20-15.37.37:649][460]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.04.20-15.37.37:651][460]LogModuleManager: Shutting down and abandoning module SSL (80)
+[2022.04.20-15.37.37:651][460]LogModuleManager: Shutting down and abandoning module WmfMedia (76)
+[2022.04.20-15.37.37:653][460]LogModuleManager: Shutting down and abandoning module Media (75)
+[2022.04.20-15.37.37:654][460]LogModuleManager: Shutting down and abandoning module MediaInfo (74)
+[2022.04.20-15.37.37:654][460]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (70)
+[2022.04.20-15.37.37:654][460]LogModuleManager: Shutting down and abandoning module Water (68)
+[2022.04.20-15.37.37:654][460]LogModuleManager: Shutting down and abandoning module VariantManagerContent (66)
+[2022.04.20-15.37.37:654][460]LogModuleManager: Shutting down and abandoning module DatasmithContent (64)
+[2022.04.20-15.37.37:654][460]LogModuleManager: Shutting down and abandoning module MLSDK (62)
+[2022.04.20-15.37.37:654][460]LogModuleManager: Shutting down and abandoning module MagicLeap (60)
+[2022.04.20-15.37.37:654][460]LogModuleManager: Shutting down and abandoning module ChaosCloth (58)
+[2022.04.20-15.37.37:654][460]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2022.04.20-15.37.37:654][460]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2022.04.20-15.37.37:654][460]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2022.04.20-15.37.37:654][460]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.04.20-15.37.37:654][460]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.04.20-15.37.37:654][460]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2022.04.20-15.37.37:654][460]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.04.20-15.37.37:654][460]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.04.20-15.37.37:654][460]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.04.20-15.37.37:654][460]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.04.20-15.37.37:654][460]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.04.20-15.37.37:654][460]LogXGEController: Cleaning working directory: C:/Users/hpuen/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.04.20-15.37.37:654][460]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.04.20-15.37.37:654][460]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.04.20-15.37.37:655][460]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.04.20-15.37.37:655][460]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.04.20-15.37.37:655][460]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.04.20-15.37.37:655][460]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.04.20-15.37.37:655][460]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.04.20-15.37.37:656][460]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.04.20-15.37.37:656][460]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.04.20-15.37.37:656][460]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.04.20-15.37.37:656][460]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.04.20-15.37.37:656][460]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.04.20-15.37.37:656][460]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.04.20-15.37.37:656][460]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.04.20-15.37.37:656][460]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.04.20-15.37.37:656][460]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.04.20-15.37.37:656][460]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.04.20-15.37.37:656][460]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.04.20-15.37.37:671][460]LogD3D11RHI: Shutdown
+[2022.04.20-15.37.37:671][460]LogD3D11RHI: CleanupD3DDevice
+[2022.04.20-15.37.37:678][460]LogD3D11RHI: Intel Extensions Framework unloaded
+[2022.04.20-15.37.37:679][460]LogD3D11RHI: [IntelMetricsDiscovery] Stopped
+[2022.04.20-15.37.37:679][460]LogExit: Exiting.
+[2022.04.20-15.37.37:685][460]Log file closed, 04/20/22 17:37:37
